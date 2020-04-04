@@ -2,8 +2,8 @@
 
   (general
     (thickness 1.6)
-    (drawings 4)
-    (tracks 2)
+    (drawings 2)
+    (tracks 0)
     (zones 0)
     (modules 178)
     (nets 164)
@@ -432,8 +432,8 @@
     (add_net "Net-(J1-Pad3)")
   )
 
-  (module LED_THT:LED_D3.0mm_FlatTop (layer F.Cu) (tedit 5880A862) (tstamp 5E9543C3)
-    (at 121.92 81.28 90)
+  (module LED_THT:LED_D3.0mm_FlatTop (layer F.Cu) (tedit 5880A862) (tstamp 5E96CC15)
+    (at 101.6 60.96 90)
     (descr "LED, Round, FlatTop, diameter 3.0mm, 2 pins, http://www.kingbright.com/attachments/file/psearch/000/00/00/L-47XEC(Ver.9A).pdf")
     (tags "LED Round FlatTop diameter 3.0mm 2 pins")
     (path /5E88A440)
@@ -468,7 +468,7 @@
   )
 
   (module LED_THT:LED_D3.0mm_FlatTop (layer F.Cu) (tedit 5880A862) (tstamp 5E956BAA)
-    (at 121.92 88.9 90)
+    (at 101.6 71.966666 90)
     (descr "LED, Round, FlatTop, diameter 3.0mm, 2 pins, http://www.kingbright.com/attachments/file/psearch/000/00/00/L-47XEC(Ver.9A).pdf")
     (tags "LED Round FlatTop diameter 3.0mm 2 pins")
     (path /5E88A50E)
@@ -503,7 +503,7 @@
   )
 
   (module LED_THT:LED_D3.0mm_FlatTop (layer F.Cu) (tedit 5880A862) (tstamp 5E9543E9)
-    (at 121.92 96.52 90)
+    (at 101.6 82.973332 90)
     (descr "LED, Round, FlatTop, diameter 3.0mm, 2 pins, http://www.kingbright.com/attachments/file/psearch/000/00/00/L-47XEC(Ver.9A).pdf")
     (tags "LED Round FlatTop diameter 3.0mm 2 pins")
     (path /5E88A536)
@@ -538,7 +538,7 @@
   )
 
   (module LED_THT:LED_D3.0mm_FlatTop (layer F.Cu) (tedit 5880A862) (tstamp 5E9543FC)
-    (at 121.92 104.14 90)
+    (at 101.6 93.979998 90)
     (descr "LED, Round, FlatTop, diameter 3.0mm, 2 pins, http://www.kingbright.com/attachments/file/psearch/000/00/00/L-47XEC(Ver.9A).pdf")
     (tags "LED Round FlatTop diameter 3.0mm 2 pins")
     (path /5E88A560)
@@ -573,7 +573,7 @@
   )
 
   (module LED_THT:LED_D3.0mm_FlatTop (layer F.Cu) (tedit 5880A862) (tstamp 5E95440F)
-    (at 121.92 111.76 90)
+    (at 101.6 104.986664 90)
     (descr "LED, Round, FlatTop, diameter 3.0mm, 2 pins, http://www.kingbright.com/attachments/file/psearch/000/00/00/L-47XEC(Ver.9A).pdf")
     (tags "LED Round FlatTop diameter 3.0mm 2 pins")
     (path /5E88A5B8)
@@ -608,7 +608,7 @@
   )
 
   (module LED_THT:LED_D3.0mm_FlatTop (layer F.Cu) (tedit 5880A862) (tstamp 5E954422)
-    (at 121.92 119.38 90)
+    (at 101.6 115.99333 90)
     (descr "LED, Round, FlatTop, diameter 3.0mm, 2 pins, http://www.kingbright.com/attachments/file/psearch/000/00/00/L-47XEC(Ver.9A).pdf")
     (tags "LED Round FlatTop diameter 3.0mm 2 pins")
     (path /5E88A793)
@@ -643,7 +643,7 @@
   )
 
   (module LED_THT:LED_D3.0mm_FlatTop (layer F.Cu) (tedit 5880A862) (tstamp 5E954435)
-    (at 121.92 127 90)
+    (at 101.6 126.999996 90)
     (descr "LED, Round, FlatTop, diameter 3.0mm, 2 pins, http://www.kingbright.com/attachments/file/psearch/000/00/00/L-47XEC(Ver.9A).pdf")
     (tags "LED Round FlatTop diameter 3.0mm 2 pins")
     (path /5E88A799)
@@ -678,7 +678,7 @@
   )
 
   (module LED_THT:LED_D3.0mm_FlatTop (layer F.Cu) (tedit 5880A862) (tstamp 5E954448)
-    (at 121.92 134.62 90)
+    (at 101.6 138.006662 90)
     (descr "LED, Round, FlatTop, diameter 3.0mm, 2 pins, http://www.kingbright.com/attachments/file/psearch/000/00/00/L-47XEC(Ver.9A).pdf")
     (tags "LED Round FlatTop diameter 3.0mm 2 pins")
     (path /5E88A79F)
@@ -713,7 +713,7 @@
   )
 
   (module LED_THT:LED_D3.0mm_FlatTop (layer F.Cu) (tedit 5880A862) (tstamp 5E95960D)
-    (at 121.92 142.24 90)
+    (at 101.6 149.013328 90)
     (descr "LED, Round, FlatTop, diameter 3.0mm, 2 pins, http://www.kingbright.com/attachments/file/psearch/000/00/00/L-47XEC(Ver.9A).pdf")
     (tags "LED Round FlatTop diameter 3.0mm 2 pins")
     (path /5E88A7A5)
@@ -748,7 +748,7 @@
   )
 
   (module LED_THT:LED_D3.0mm_FlatTop (layer F.Cu) (tedit 5880A862) (tstamp 5E95446E)
-    (at 121.92 149.86 90)
+    (at 101.6 160.02 90)
     (descr "LED, Round, FlatTop, diameter 3.0mm, 2 pins, http://www.kingbright.com/attachments/file/psearch/000/00/00/L-47XEC(Ver.9A).pdf")
     (tags "LED Round FlatTop diameter 3.0mm 2 pins")
     (path /5E88A7AB)
@@ -782,8 +782,8 @@
     )
   )
 
-  (module LED_THT:LED_D3.0mm_FlatTop (layer F.Cu) (tedit 5880A862) (tstamp 5E95A3B1)
-    (at 129.54 81.28 90)
+  (module LED_THT:LED_D3.0mm_FlatTop (layer F.Cu) (tedit 5880A862) (tstamp 5E96CA29)
+    (at 111.76 60.96 90)
     (descr "LED, Round, FlatTop, diameter 3.0mm, 2 pins, http://www.kingbright.com/attachments/file/psearch/000/00/00/L-47XEC(Ver.9A).pdf")
     (tags "LED Round FlatTop diameter 3.0mm 2 pins")
     (path /5E8D4294)
@@ -818,7 +818,7 @@
   )
 
   (module LED_THT:LED_D3.0mm_FlatTop (layer F.Cu) (tedit 5880A862) (tstamp 5E95D872)
-    (at 129.54 88.9 90)
+    (at 111.764373 71.966666 90)
     (descr "LED, Round, FlatTop, diameter 3.0mm, 2 pins, http://www.kingbright.com/attachments/file/psearch/000/00/00/L-47XEC(Ver.9A).pdf")
     (tags "LED Round FlatTop diameter 3.0mm 2 pins")
     (path /5E8D429A)
@@ -853,7 +853,7 @@
   )
 
   (module LED_THT:LED_D3.0mm_FlatTop (layer F.Cu) (tedit 5880A862) (tstamp 5E95A3D7)
-    (at 129.54 96.52 90)
+    (at 111.764373 82.973332 90)
     (descr "LED, Round, FlatTop, diameter 3.0mm, 2 pins, http://www.kingbright.com/attachments/file/psearch/000/00/00/L-47XEC(Ver.9A).pdf")
     (tags "LED Round FlatTop diameter 3.0mm 2 pins")
     (path /5E8D42A0)
@@ -888,7 +888,7 @@
   )
 
   (module LED_THT:LED_D3.0mm_FlatTop (layer F.Cu) (tedit 5880A862) (tstamp 5E95A3EA)
-    (at 129.54 101.6 270)
+    (at 111.764373 91.429998 270)
     (descr "LED, Round, FlatTop, diameter 3.0mm, 2 pins, http://www.kingbright.com/attachments/file/psearch/000/00/00/L-47XEC(Ver.9A).pdf")
     (tags "LED Round FlatTop diameter 3.0mm 2 pins")
     (path /5E8D42A6)
@@ -923,7 +923,7 @@
   )
 
   (module LED_THT:LED_D3.0mm_FlatTop (layer F.Cu) (tedit 5880A862) (tstamp 5E95CA33)
-    (at 129.54 111.76 90)
+    (at 111.764373 104.986664 90)
     (descr "LED, Round, FlatTop, diameter 3.0mm, 2 pins, http://www.kingbright.com/attachments/file/psearch/000/00/00/L-47XEC(Ver.9A).pdf")
     (tags "LED Round FlatTop diameter 3.0mm 2 pins")
     (path /5E8D42AC)
@@ -958,7 +958,7 @@
   )
 
   (module LED_THT:LED_D3.0mm_FlatTop (layer F.Cu) (tedit 5880A862) (tstamp 5E95A410)
-    (at 129.54 119.38 90)
+    (at 111.764373 115.99333 90)
     (descr "LED, Round, FlatTop, diameter 3.0mm, 2 pins, http://www.kingbright.com/attachments/file/psearch/000/00/00/L-47XEC(Ver.9A).pdf")
     (tags "LED Round FlatTop diameter 3.0mm 2 pins")
     (path /5E8D42B2)
@@ -993,7 +993,7 @@
   )
 
   (module LED_THT:LED_D3.0mm_FlatTop (layer F.Cu) (tedit 5880A862) (tstamp 5E95A423)
-    (at 129.54 127 90)
+    (at 111.764373 126.999996 90)
     (descr "LED, Round, FlatTop, diameter 3.0mm, 2 pins, http://www.kingbright.com/attachments/file/psearch/000/00/00/L-47XEC(Ver.9A).pdf")
     (tags "LED Round FlatTop diameter 3.0mm 2 pins")
     (path /5E8D42B8)
@@ -1028,7 +1028,7 @@
   )
 
   (module LED_THT:LED_D3.0mm_FlatTop (layer F.Cu) (tedit 5880A862) (tstamp 5E95DB4A)
-    (at 129.54 134.62 90)
+    (at 111.764373 138.006662 90)
     (descr "LED, Round, FlatTop, diameter 3.0mm, 2 pins, http://www.kingbright.com/attachments/file/psearch/000/00/00/L-47XEC(Ver.9A).pdf")
     (tags "LED Round FlatTop diameter 3.0mm 2 pins")
     (path /5E8D42BE)
@@ -1063,7 +1063,7 @@
   )
 
   (module LED_THT:LED_D3.0mm_FlatTop (layer F.Cu) (tedit 5880A862) (tstamp 5E95A449)
-    (at 129.54 142.24 90)
+    (at 111.764373 149.013328 90)
     (descr "LED, Round, FlatTop, diameter 3.0mm, 2 pins, http://www.kingbright.com/attachments/file/psearch/000/00/00/L-47XEC(Ver.9A).pdf")
     (tags "LED Round FlatTop diameter 3.0mm 2 pins")
     (path /5E8D42C4)
@@ -1098,7 +1098,7 @@
   )
 
   (module LED_THT:LED_D3.0mm_FlatTop (layer F.Cu) (tedit 5880A862) (tstamp 5E95A45C)
-    (at 129.54 149.86 90)
+    (at 111.76 160.02 90)
     (descr "LED, Round, FlatTop, diameter 3.0mm, 2 pins, http://www.kingbright.com/attachments/file/psearch/000/00/00/L-47XEC(Ver.9A).pdf")
     (tags "LED Round FlatTop diameter 3.0mm 2 pins")
     (path /5E8D42CA)
@@ -1132,8 +1132,8 @@
     )
   )
 
-  (module LED_THT:LED_D3.0mm_FlatTop (layer F.Cu) (tedit 5880A862) (tstamp 5E95A46F)
-    (at 137.16 81.28 90)
+  (module LED_THT:LED_D3.0mm_FlatTop (layer F.Cu) (tedit 5880A862) (tstamp 5E96CA5F)
+    (at 121.92 60.96 90)
     (descr "LED, Round, FlatTop, diameter 3.0mm, 2 pins, http://www.kingbright.com/attachments/file/psearch/000/00/00/L-47XEC(Ver.9A).pdf")
     (tags "LED Round FlatTop diameter 3.0mm 2 pins")
     (path /5E8D494C)
@@ -1168,7 +1168,7 @@
   )
 
   (module LED_THT:LED_D3.0mm_FlatTop (layer F.Cu) (tedit 5880A862) (tstamp 5E95CA69)
-    (at 137.16 88.9 90)
+    (at 121.928746 71.966666 90)
     (descr "LED, Round, FlatTop, diameter 3.0mm, 2 pins, http://www.kingbright.com/attachments/file/psearch/000/00/00/L-47XEC(Ver.9A).pdf")
     (tags "LED Round FlatTop diameter 3.0mm 2 pins")
     (path /5E8D4952)
@@ -1203,7 +1203,7 @@
   )
 
   (module LED_THT:LED_D3.0mm_FlatTop (layer F.Cu) (tedit 5880A862) (tstamp 5E95A495)
-    (at 137.16 96.52 90)
+    (at 121.928746 82.973332 90)
     (descr "LED, Round, FlatTop, diameter 3.0mm, 2 pins, http://www.kingbright.com/attachments/file/psearch/000/00/00/L-47XEC(Ver.9A).pdf")
     (tags "LED Round FlatTop diameter 3.0mm 2 pins")
     (path /5E8D4958)
@@ -1238,7 +1238,7 @@
   )
 
   (module LED_THT:LED_D3.0mm_FlatTop (layer F.Cu) (tedit 5880A862) (tstamp 5E95A4A8)
-    (at 137.16 104.14 90)
+    (at 121.928746 93.979998 90)
     (descr "LED, Round, FlatTop, diameter 3.0mm, 2 pins, http://www.kingbright.com/attachments/file/psearch/000/00/00/L-47XEC(Ver.9A).pdf")
     (tags "LED Round FlatTop diameter 3.0mm 2 pins")
     (path /5E8D495E)
@@ -1273,7 +1273,7 @@
   )
 
   (module LED_THT:LED_D3.0mm_FlatTop (layer F.Cu) (tedit 5880A862) (tstamp 5E95A4BB)
-    (at 137.16 111.76 90)
+    (at 121.928746 104.986664 90)
     (descr "LED, Round, FlatTop, diameter 3.0mm, 2 pins, http://www.kingbright.com/attachments/file/psearch/000/00/00/L-47XEC(Ver.9A).pdf")
     (tags "LED Round FlatTop diameter 3.0mm 2 pins")
     (path /5E8D4964)
@@ -1308,7 +1308,7 @@
   )
 
   (module LED_THT:LED_D3.0mm_FlatTop (layer F.Cu) (tedit 5880A862) (tstamp 5E95A4CE)
-    (at 137.16 119.38 90)
+    (at 121.928746 115.99333 90)
     (descr "LED, Round, FlatTop, diameter 3.0mm, 2 pins, http://www.kingbright.com/attachments/file/psearch/000/00/00/L-47XEC(Ver.9A).pdf")
     (tags "LED Round FlatTop diameter 3.0mm 2 pins")
     (path /5E8D496A)
@@ -1343,7 +1343,7 @@
   )
 
   (module LED_THT:LED_D3.0mm_FlatTop (layer F.Cu) (tedit 5880A862) (tstamp 5E95C9FD)
-    (at 137.16 127 90)
+    (at 121.928746 126.999996 90)
     (descr "LED, Round, FlatTop, diameter 3.0mm, 2 pins, http://www.kingbright.com/attachments/file/psearch/000/00/00/L-47XEC(Ver.9A).pdf")
     (tags "LED Round FlatTop diameter 3.0mm 2 pins")
     (path /5E8D4970)
@@ -1378,7 +1378,7 @@
   )
 
   (module LED_THT:LED_D3.0mm_FlatTop (layer F.Cu) (tedit 5880A862) (tstamp 5E95A4F4)
-    (at 137.16 134.62 90)
+    (at 121.928746 138.006662 90)
     (descr "LED, Round, FlatTop, diameter 3.0mm, 2 pins, http://www.kingbright.com/attachments/file/psearch/000/00/00/L-47XEC(Ver.9A).pdf")
     (tags "LED Round FlatTop diameter 3.0mm 2 pins")
     (path /5E8D4976)
@@ -1413,7 +1413,7 @@
   )
 
   (module LED_THT:LED_D3.0mm_FlatTop (layer F.Cu) (tedit 5880A862) (tstamp 5E95A507)
-    (at 137.16 142.24 90)
+    (at 121.928746 149.013328 90)
     (descr "LED, Round, FlatTop, diameter 3.0mm, 2 pins, http://www.kingbright.com/attachments/file/psearch/000/00/00/L-47XEC(Ver.9A).pdf")
     (tags "LED Round FlatTop diameter 3.0mm 2 pins")
     (path /5E8D497C)
@@ -1448,7 +1448,7 @@
   )
 
   (module LED_THT:LED_D3.0mm_FlatTop (layer F.Cu) (tedit 5880A862) (tstamp 5E95A51A)
-    (at 137.16 149.86 90)
+    (at 121.92 160.02 90)
     (descr "LED, Round, FlatTop, diameter 3.0mm, 2 pins, http://www.kingbright.com/attachments/file/psearch/000/00/00/L-47XEC(Ver.9A).pdf")
     (tags "LED Round FlatTop diameter 3.0mm 2 pins")
     (path /5E8D4982)
@@ -1482,8 +1482,8 @@
     )
   )
 
-  (module LED_THT:LED_D3.0mm_FlatTop (layer F.Cu) (tedit 5880A862) (tstamp 5E95A52D)
-    (at 144.78 81.28 90)
+  (module LED_THT:LED_D3.0mm_FlatTop (layer F.Cu) (tedit 5880A862) (tstamp 5E96C9F3)
+    (at 132.08 60.96 90)
     (descr "LED, Round, FlatTop, diameter 3.0mm, 2 pins, http://www.kingbright.com/attachments/file/psearch/000/00/00/L-47XEC(Ver.9A).pdf")
     (tags "LED Round FlatTop diameter 3.0mm 2 pins")
     (path /5E8D499A)
@@ -1518,7 +1518,7 @@
   )
 
   (module LED_THT:LED_D3.0mm_FlatTop (layer F.Cu) (tedit 5880A862) (tstamp 5E95A540)
-    (at 144.78 88.9 90)
+    (at 132.093119 71.966666 90)
     (descr "LED, Round, FlatTop, diameter 3.0mm, 2 pins, http://www.kingbright.com/attachments/file/psearch/000/00/00/L-47XEC(Ver.9A).pdf")
     (tags "LED Round FlatTop diameter 3.0mm 2 pins")
     (path /5E8D49A0)
@@ -1553,7 +1553,7 @@
   )
 
   (module LED_THT:LED_D3.0mm_FlatTop (layer F.Cu) (tedit 5880A862) (tstamp 5E95A553)
-    (at 144.78 96.52 90)
+    (at 132.093119 82.973332 90)
     (descr "LED, Round, FlatTop, diameter 3.0mm, 2 pins, http://www.kingbright.com/attachments/file/psearch/000/00/00/L-47XEC(Ver.9A).pdf")
     (tags "LED Round FlatTop diameter 3.0mm 2 pins")
     (path /5E8D49A6)
@@ -1588,7 +1588,7 @@
   )
 
   (module LED_THT:LED_D3.0mm_FlatTop (layer F.Cu) (tedit 5880A862) (tstamp 5E95C991)
-    (at 144.78 104.14 90)
+    (at 132.093119 93.979998 90)
     (descr "LED, Round, FlatTop, diameter 3.0mm, 2 pins, http://www.kingbright.com/attachments/file/psearch/000/00/00/L-47XEC(Ver.9A).pdf")
     (tags "LED Round FlatTop diameter 3.0mm 2 pins")
     (path /5E8D49AC)
@@ -1623,7 +1623,7 @@
   )
 
   (module LED_THT:LED_D3.0mm_FlatTop (layer F.Cu) (tedit 5880A862) (tstamp 5E95A579)
-    (at 144.78 111.76 90)
+    (at 132.093119 104.986664 90)
     (descr "LED, Round, FlatTop, diameter 3.0mm, 2 pins, http://www.kingbright.com/attachments/file/psearch/000/00/00/L-47XEC(Ver.9A).pdf")
     (tags "LED Round FlatTop diameter 3.0mm 2 pins")
     (path /5E8D49B2)
@@ -1658,7 +1658,7 @@
   )
 
   (module LED_THT:LED_D3.0mm_FlatTop (layer F.Cu) (tedit 5880A862) (tstamp 5E95A58C)
-    (at 144.78 119.38 90)
+    (at 132.093119 115.99333 90)
     (descr "LED, Round, FlatTop, diameter 3.0mm, 2 pins, http://www.kingbright.com/attachments/file/psearch/000/00/00/L-47XEC(Ver.9A).pdf")
     (tags "LED Round FlatTop diameter 3.0mm 2 pins")
     (path /5E8D49B8)
@@ -1693,7 +1693,7 @@
   )
 
   (module LED_THT:LED_D3.0mm_FlatTop (layer F.Cu) (tedit 5880A862) (tstamp 5E95A59F)
-    (at 144.78 127 90)
+    (at 132.093119 126.999996 90)
     (descr "LED, Round, FlatTop, diameter 3.0mm, 2 pins, http://www.kingbright.com/attachments/file/psearch/000/00/00/L-47XEC(Ver.9A).pdf")
     (tags "LED Round FlatTop diameter 3.0mm 2 pins")
     (path /5E8D49BE)
@@ -1728,7 +1728,7 @@
   )
 
   (module LED_THT:LED_D3.0mm_FlatTop (layer F.Cu) (tedit 5880A862) (tstamp 5E95F114)
-    (at 144.78 134.62 90)
+    (at 132.093119 138.006662 90)
     (descr "LED, Round, FlatTop, diameter 3.0mm, 2 pins, http://www.kingbright.com/attachments/file/psearch/000/00/00/L-47XEC(Ver.9A).pdf")
     (tags "LED Round FlatTop diameter 3.0mm 2 pins")
     (path /5E8D49C4)
@@ -1763,7 +1763,7 @@
   )
 
   (module LED_THT:LED_D3.0mm_FlatTop (layer F.Cu) (tedit 5880A862) (tstamp 5E95EF44)
-    (at 144.78 142.24 90)
+    (at 132.093119 149.013328 90)
     (descr "LED, Round, FlatTop, diameter 3.0mm, 2 pins, http://www.kingbright.com/attachments/file/psearch/000/00/00/L-47XEC(Ver.9A).pdf")
     (tags "LED Round FlatTop diameter 3.0mm 2 pins")
     (path /5E8D49CA)
@@ -1798,7 +1798,7 @@
   )
 
   (module LED_THT:LED_D3.0mm_FlatTop (layer F.Cu) (tedit 5880A862) (tstamp 5E95A5D8)
-    (at 144.78 149.86 90)
+    (at 132.08 160.02 90)
     (descr "LED, Round, FlatTop, diameter 3.0mm, 2 pins, http://www.kingbright.com/attachments/file/psearch/000/00/00/L-47XEC(Ver.9A).pdf")
     (tags "LED Round FlatTop diameter 3.0mm 2 pins")
     (path /5E8D49D0)
@@ -1832,8 +1832,8 @@
     )
   )
 
-  (module LED_THT:LED_D3.0mm_FlatTop (layer F.Cu) (tedit 5880A862) (tstamp 5E95C95B)
-    (at 152.4 81.28 90)
+  (module LED_THT:LED_D3.0mm_FlatTop (layer F.Cu) (tedit 5880A862) (tstamp 5E96C9BD)
+    (at 142.24 60.96 90)
     (descr "LED, Round, FlatTop, diameter 3.0mm, 2 pins, http://www.kingbright.com/attachments/file/psearch/000/00/00/L-47XEC(Ver.9A).pdf")
     (tags "LED Round FlatTop diameter 3.0mm 2 pins")
     (path /5E8D60C0)
@@ -1868,7 +1868,7 @@
   )
 
   (module LED_THT:LED_D3.0mm_FlatTop (layer F.Cu) (tedit 5880A862) (tstamp 5E95A5FE)
-    (at 152.4 88.9 90)
+    (at 142.257492 71.966666 90)
     (descr "LED, Round, FlatTop, diameter 3.0mm, 2 pins, http://www.kingbright.com/attachments/file/psearch/000/00/00/L-47XEC(Ver.9A).pdf")
     (tags "LED Round FlatTop diameter 3.0mm 2 pins")
     (path /5E8D60C6)
@@ -1903,7 +1903,7 @@
   )
 
   (module LED_THT:LED_D3.0mm_FlatTop (layer F.Cu) (tedit 5880A862) (tstamp 5E95F506)
-    (at 152.4 96.52 90)
+    (at 142.257492 82.973332 90)
     (descr "LED, Round, FlatTop, diameter 3.0mm, 2 pins, http://www.kingbright.com/attachments/file/psearch/000/00/00/L-47XEC(Ver.9A).pdf")
     (tags "LED Round FlatTop diameter 3.0mm 2 pins")
     (path /5E8D60CC)
@@ -1938,7 +1938,7 @@
   )
 
   (module LED_THT:LED_D3.0mm_FlatTop (layer F.Cu) (tedit 5880A862) (tstamp 5E95A624)
-    (at 152.4 104.14 90)
+    (at 142.257492 93.979998 90)
     (descr "LED, Round, FlatTop, diameter 3.0mm, 2 pins, http://www.kingbright.com/attachments/file/psearch/000/00/00/L-47XEC(Ver.9A).pdf")
     (tags "LED Round FlatTop diameter 3.0mm 2 pins")
     (path /5E8D60D2)
@@ -1973,7 +1973,7 @@
   )
 
   (module LED_THT:LED_D3.0mm_FlatTop (layer F.Cu) (tedit 5880A862) (tstamp 5E95A637)
-    (at 152.4 111.76 90)
+    (at 142.257492 104.986664 90)
     (descr "LED, Round, FlatTop, diameter 3.0mm, 2 pins, http://www.kingbright.com/attachments/file/psearch/000/00/00/L-47XEC(Ver.9A).pdf")
     (tags "LED Round FlatTop diameter 3.0mm 2 pins")
     (path /5E8D60D8)
@@ -2008,7 +2008,7 @@
   )
 
   (module LED_THT:LED_D3.0mm_FlatTop (layer F.Cu) (tedit 5880A862) (tstamp 5E95A64A)
-    (at 152.4 119.38 90)
+    (at 142.257492 115.99333 90)
     (descr "LED, Round, FlatTop, diameter 3.0mm, 2 pins, http://www.kingbright.com/attachments/file/psearch/000/00/00/L-47XEC(Ver.9A).pdf")
     (tags "LED Round FlatTop diameter 3.0mm 2 pins")
     (path /5E8D60DE)
@@ -2043,7 +2043,7 @@
   )
 
   (module LED_THT:LED_D3.0mm_FlatTop (layer F.Cu) (tedit 5880A862) (tstamp 5E95A65D)
-    (at 152.4 127 90)
+    (at 142.257492 126.999996 90)
     (descr "LED, Round, FlatTop, diameter 3.0mm, 2 pins, http://www.kingbright.com/attachments/file/psearch/000/00/00/L-47XEC(Ver.9A).pdf")
     (tags "LED Round FlatTop diameter 3.0mm 2 pins")
     (path /5E8D60E4)
@@ -2078,7 +2078,7 @@
   )
 
   (module LED_THT:LED_D3.0mm_FlatTop (layer F.Cu) (tedit 5880A862) (tstamp 5E95A670)
-    (at 152.4 134.62 90)
+    (at 142.257492 138.006662 90)
     (descr "LED, Round, FlatTop, diameter 3.0mm, 2 pins, http://www.kingbright.com/attachments/file/psearch/000/00/00/L-47XEC(Ver.9A).pdf")
     (tags "LED Round FlatTop diameter 3.0mm 2 pins")
     (path /5E8D60EA)
@@ -2113,7 +2113,7 @@
   )
 
   (module LED_THT:LED_D3.0mm_FlatTop (layer F.Cu) (tedit 5880A862) (tstamp 5E95C925)
-    (at 152.4 142.24 90)
+    (at 142.257492 149.013328 90)
     (descr "LED, Round, FlatTop, diameter 3.0mm, 2 pins, http://www.kingbright.com/attachments/file/psearch/000/00/00/L-47XEC(Ver.9A).pdf")
     (tags "LED Round FlatTop diameter 3.0mm 2 pins")
     (path /5E8D60F0)
@@ -2148,7 +2148,7 @@
   )
 
   (module LED_THT:LED_D3.0mm_FlatTop (layer F.Cu) (tedit 5880A862) (tstamp 5E95EAA2)
-    (at 152.4 149.86 90)
+    (at 142.24 160.02 90)
     (descr "LED, Round, FlatTop, diameter 3.0mm, 2 pins, http://www.kingbright.com/attachments/file/psearch/000/00/00/L-47XEC(Ver.9A).pdf")
     (tags "LED Round FlatTop diameter 3.0mm 2 pins")
     (path /5E8D60F6)
@@ -2182,8 +2182,8 @@
     )
   )
 
-  (module LED_THT:LED_D3.0mm_FlatTop (layer F.Cu) (tedit 5880A862) (tstamp 5E95A6A9)
-    (at 160.02 81.28 90)
+  (module LED_THT:LED_D3.0mm_FlatTop (layer F.Cu) (tedit 5880A862) (tstamp 5E96C987)
+    (at 152.4 60.96 90)
     (descr "LED, Round, FlatTop, diameter 3.0mm, 2 pins, http://www.kingbright.com/attachments/file/psearch/000/00/00/L-47XEC(Ver.9A).pdf")
     (tags "LED Round FlatTop diameter 3.0mm 2 pins")
     (path /5E8D610E)
@@ -2218,7 +2218,7 @@
   )
 
   (module LED_THT:LED_D3.0mm_FlatTop (layer F.Cu) (tedit 5880A862) (tstamp 5E95A6BC)
-    (at 160.02 88.9 90)
+    (at 152.421865 71.966666 90)
     (descr "LED, Round, FlatTop, diameter 3.0mm, 2 pins, http://www.kingbright.com/attachments/file/psearch/000/00/00/L-47XEC(Ver.9A).pdf")
     (tags "LED Round FlatTop diameter 3.0mm 2 pins")
     (path /5E8D6114)
@@ -2253,7 +2253,7 @@
   )
 
   (module LED_THT:LED_D3.0mm_FlatTop (layer F.Cu) (tedit 5880A862) (tstamp 5E95A6CF)
-    (at 160.02 96.52 90)
+    (at 152.421865 82.973332 90)
     (descr "LED, Round, FlatTop, diameter 3.0mm, 2 pins, http://www.kingbright.com/attachments/file/psearch/000/00/00/L-47XEC(Ver.9A).pdf")
     (tags "LED Round FlatTop diameter 3.0mm 2 pins")
     (path /5E8D611A)
@@ -2288,7 +2288,7 @@
   )
 
   (module LED_THT:LED_D3.0mm_FlatTop (layer F.Cu) (tedit 5880A862) (tstamp 5E95A6E2)
-    (at 160.02 104.465001 90)
+    (at 152.421865 93.979998 90)
     (descr "LED, Round, FlatTop, diameter 3.0mm, 2 pins, http://www.kingbright.com/attachments/file/psearch/000/00/00/L-47XEC(Ver.9A).pdf")
     (tags "LED Round FlatTop diameter 3.0mm 2 pins")
     (path /5E8D6120)
@@ -2323,7 +2323,7 @@
   )
 
   (module LED_THT:LED_D3.0mm_FlatTop (layer F.Cu) (tedit 5880A862) (tstamp 5E95A6F5)
-    (at 160.02 111.76 90)
+    (at 152.421865 104.986664 90)
     (descr "LED, Round, FlatTop, diameter 3.0mm, 2 pins, http://www.kingbright.com/attachments/file/psearch/000/00/00/L-47XEC(Ver.9A).pdf")
     (tags "LED Round FlatTop diameter 3.0mm 2 pins")
     (path /5E8D6126)
@@ -2358,7 +2358,7 @@
   )
 
   (module LED_THT:LED_D3.0mm_FlatTop (layer F.Cu) (tedit 5880A862) (tstamp 5E95A708)
-    (at 160.02 119.38 90)
+    (at 152.421865 115.99333 90)
     (descr "LED, Round, FlatTop, diameter 3.0mm, 2 pins, http://www.kingbright.com/attachments/file/psearch/000/00/00/L-47XEC(Ver.9A).pdf")
     (tags "LED Round FlatTop diameter 3.0mm 2 pins")
     (path /5E8D612C)
@@ -2393,7 +2393,7 @@
   )
 
   (module LED_THT:LED_D3.0mm_FlatTop (layer F.Cu) (tedit 5880A862) (tstamp 5E95C8EF)
-    (at 160.02 127 90)
+    (at 152.421865 126.999996 90)
     (descr "LED, Round, FlatTop, diameter 3.0mm, 2 pins, http://www.kingbright.com/attachments/file/psearch/000/00/00/L-47XEC(Ver.9A).pdf")
     (tags "LED Round FlatTop diameter 3.0mm 2 pins")
     (path /5E8D6132)
@@ -2428,7 +2428,7 @@
   )
 
   (module LED_THT:LED_D3.0mm_FlatTop (layer F.Cu) (tedit 5880A862) (tstamp 5E95A72E)
-    (at 160.02 134.62 90)
+    (at 152.421865 138.006662 90)
     (descr "LED, Round, FlatTop, diameter 3.0mm, 2 pins, http://www.kingbright.com/attachments/file/psearch/000/00/00/L-47XEC(Ver.9A).pdf")
     (tags "LED Round FlatTop diameter 3.0mm 2 pins")
     (path /5E8D6138)
@@ -2463,7 +2463,7 @@
   )
 
   (module LED_THT:LED_D3.0mm_FlatTop (layer F.Cu) (tedit 5880A862) (tstamp 5E95A741)
-    (at 160.02 142.24 90)
+    (at 152.421865 149.013328 90)
     (descr "LED, Round, FlatTop, diameter 3.0mm, 2 pins, http://www.kingbright.com/attachments/file/psearch/000/00/00/L-47XEC(Ver.9A).pdf")
     (tags "LED Round FlatTop diameter 3.0mm 2 pins")
     (path /5E8D613E)
@@ -2498,7 +2498,7 @@
   )
 
   (module LED_THT:LED_D3.0mm_FlatTop (layer F.Cu) (tedit 5880A862) (tstamp 5E95A754)
-    (at 160.02 149.86 90)
+    (at 152.4 160.02 90)
     (descr "LED, Round, FlatTop, diameter 3.0mm, 2 pins, http://www.kingbright.com/attachments/file/psearch/000/00/00/L-47XEC(Ver.9A).pdf")
     (tags "LED Round FlatTop diameter 3.0mm 2 pins")
     (path /5E8D6144)
@@ -2532,8 +2532,8 @@
     )
   )
 
-  (module LED_THT:LED_D3.0mm_FlatTop (layer F.Cu) (tedit 5880A862) (tstamp 5E95A767)
-    (at 167.64 81.28 90)
+  (module LED_THT:LED_D3.0mm_FlatTop (layer F.Cu) (tedit 5880A862) (tstamp 5E96C951)
+    (at 162.56 60.96 90)
     (descr "LED, Round, FlatTop, diameter 3.0mm, 2 pins, http://www.kingbright.com/attachments/file/psearch/000/00/00/L-47XEC(Ver.9A).pdf")
     (tags "LED Round FlatTop diameter 3.0mm 2 pins")
     (path /5E8D615C)
@@ -2568,7 +2568,7 @@
   )
 
   (module LED_THT:LED_D3.0mm_FlatTop (layer F.Cu) (tedit 5880A862) (tstamp 5E95A77A)
-    (at 167.64 88.9 90)
+    (at 162.586238 71.966666 90)
     (descr "LED, Round, FlatTop, diameter 3.0mm, 2 pins, http://www.kingbright.com/attachments/file/psearch/000/00/00/L-47XEC(Ver.9A).pdf")
     (tags "LED Round FlatTop diameter 3.0mm 2 pins")
     (path /5E8D6162)
@@ -2603,7 +2603,7 @@
   )
 
   (module LED_THT:LED_D3.0mm_FlatTop (layer F.Cu) (tedit 5880A862) (tstamp 5E95A78D)
-    (at 167.64 96.52 90)
+    (at 162.586238 82.973332 90)
     (descr "LED, Round, FlatTop, diameter 3.0mm, 2 pins, http://www.kingbright.com/attachments/file/psearch/000/00/00/L-47XEC(Ver.9A).pdf")
     (tags "LED Round FlatTop diameter 3.0mm 2 pins")
     (path /5E8D6168)
@@ -2638,7 +2638,7 @@
   )
 
   (module LED_THT:LED_D3.0mm_FlatTop (layer F.Cu) (tedit 5880A862) (tstamp 5E95A7A0)
-    (at 167.64 104.14 90)
+    (at 162.586238 93.979998 90)
     (descr "LED, Round, FlatTop, diameter 3.0mm, 2 pins, http://www.kingbright.com/attachments/file/psearch/000/00/00/L-47XEC(Ver.9A).pdf")
     (tags "LED Round FlatTop diameter 3.0mm 2 pins")
     (path /5E8D616E)
@@ -2673,7 +2673,7 @@
   )
 
   (module LED_THT:LED_D3.0mm_FlatTop (layer F.Cu) (tedit 5880A862) (tstamp 5E95A7B3)
-    (at 167.64 111.76 90)
+    (at 162.586238 104.986664 90)
     (descr "LED, Round, FlatTop, diameter 3.0mm, 2 pins, http://www.kingbright.com/attachments/file/psearch/000/00/00/L-47XEC(Ver.9A).pdf")
     (tags "LED Round FlatTop diameter 3.0mm 2 pins")
     (path /5E8D6174)
@@ -2708,7 +2708,7 @@
   )
 
   (module LED_THT:LED_D3.0mm_FlatTop (layer F.Cu) (tedit 5880A862) (tstamp 5E95FAA9)
-    (at 167.64 119.38 90)
+    (at 162.586238 115.99333 90)
     (descr "LED, Round, FlatTop, diameter 3.0mm, 2 pins, http://www.kingbright.com/attachments/file/psearch/000/00/00/L-47XEC(Ver.9A).pdf")
     (tags "LED Round FlatTop diameter 3.0mm 2 pins")
     (path /5E8D617A)
@@ -2743,7 +2743,7 @@
   )
 
   (module LED_THT:LED_D3.0mm_FlatTop (layer F.Cu) (tedit 5880A862) (tstamp 5E95FB15)
-    (at 167.64 127 90)
+    (at 162.586238 126.999996 90)
     (descr "LED, Round, FlatTop, diameter 3.0mm, 2 pins, http://www.kingbright.com/attachments/file/psearch/000/00/00/L-47XEC(Ver.9A).pdf")
     (tags "LED Round FlatTop diameter 3.0mm 2 pins")
     (path /5E8D6180)
@@ -2778,7 +2778,7 @@
   )
 
   (module LED_THT:LED_D3.0mm_FlatTop (layer F.Cu) (tedit 5880A862) (tstamp 5E95FADF)
-    (at 167.64 134.62 90)
+    (at 162.586238 138.006662 90)
     (descr "LED, Round, FlatTop, diameter 3.0mm, 2 pins, http://www.kingbright.com/attachments/file/psearch/000/00/00/L-47XEC(Ver.9A).pdf")
     (tags "LED Round FlatTop diameter 3.0mm 2 pins")
     (path /5E8D6186)
@@ -2813,7 +2813,7 @@
   )
 
   (module LED_THT:LED_D3.0mm_FlatTop (layer F.Cu) (tedit 5880A862) (tstamp 5E95FA73)
-    (at 167.64 142.24 90)
+    (at 162.586238 149.013328 90)
     (descr "LED, Round, FlatTop, diameter 3.0mm, 2 pins, http://www.kingbright.com/attachments/file/psearch/000/00/00/L-47XEC(Ver.9A).pdf")
     (tags "LED Round FlatTop diameter 3.0mm 2 pins")
     (path /5E8D618C)
@@ -2848,7 +2848,7 @@
   )
 
   (module LED_THT:LED_D3.0mm_FlatTop (layer F.Cu) (tedit 5880A862) (tstamp 5E95FA3D)
-    (at 167.64 149.86 90)
+    (at 162.56 160.02 90)
     (descr "LED, Round, FlatTop, diameter 3.0mm, 2 pins, http://www.kingbright.com/attachments/file/psearch/000/00/00/L-47XEC(Ver.9A).pdf")
     (tags "LED Round FlatTop diameter 3.0mm 2 pins")
     (path /5E8D6192)
@@ -2882,8 +2882,8 @@
     )
   )
 
-  (module LED_THT:LED_D3.0mm_FlatTop (layer F.Cu) (tedit 5880A862) (tstamp 5E95A825)
-    (at 175.26 81.28 90)
+  (module LED_THT:LED_D3.0mm_FlatTop (layer F.Cu) (tedit 5880A862) (tstamp 5E96CBD9)
+    (at 172.72 60.96 90)
     (descr "LED, Round, FlatTop, diameter 3.0mm, 2 pins, http://www.kingbright.com/attachments/file/psearch/000/00/00/L-47XEC(Ver.9A).pdf")
     (tags "LED Round FlatTop diameter 3.0mm 2 pins")
     (path /5E8D61AA)
@@ -2918,7 +2918,7 @@
   )
 
   (module LED_THT:LED_D3.0mm_FlatTop (layer F.Cu) (tedit 5880A862) (tstamp 5E95A838)
-    (at 175.26 88.9 90)
+    (at 172.750611 71.966666 90)
     (descr "LED, Round, FlatTop, diameter 3.0mm, 2 pins, http://www.kingbright.com/attachments/file/psearch/000/00/00/L-47XEC(Ver.9A).pdf")
     (tags "LED Round FlatTop diameter 3.0mm 2 pins")
     (path /5E8D61B0)
@@ -2953,7 +2953,7 @@
   )
 
   (module LED_THT:LED_D3.0mm_FlatTop (layer F.Cu) (tedit 5880A862) (tstamp 5E95A84B)
-    (at 175.26 96.52 90)
+    (at 172.750611 82.973332 90)
     (descr "LED, Round, FlatTop, diameter 3.0mm, 2 pins, http://www.kingbright.com/attachments/file/psearch/000/00/00/L-47XEC(Ver.9A).pdf")
     (tags "LED Round FlatTop diameter 3.0mm 2 pins")
     (path /5E8D61B6)
@@ -2988,7 +2988,7 @@
   )
 
   (module LED_THT:LED_D3.0mm_FlatTop (layer F.Cu) (tedit 5880A862) (tstamp 5E95A85E)
-    (at 175.26 104.14 90)
+    (at 172.750611 93.979998 90)
     (descr "LED, Round, FlatTop, diameter 3.0mm, 2 pins, http://www.kingbright.com/attachments/file/psearch/000/00/00/L-47XEC(Ver.9A).pdf")
     (tags "LED Round FlatTop diameter 3.0mm 2 pins")
     (path /5E8D61BC)
@@ -3023,7 +3023,7 @@
   )
 
   (module LED_THT:LED_D3.0mm_FlatTop (layer F.Cu) (tedit 5880A862) (tstamp 5E95E8F7)
-    (at 175.26 111.76 90)
+    (at 172.750611 104.986664 90)
     (descr "LED, Round, FlatTop, diameter 3.0mm, 2 pins, http://www.kingbright.com/attachments/file/psearch/000/00/00/L-47XEC(Ver.9A).pdf")
     (tags "LED Round FlatTop diameter 3.0mm 2 pins")
     (path /5E8D61C2)
@@ -3058,7 +3058,7 @@
   )
 
   (module LED_THT:LED_D3.0mm_FlatTop (layer F.Cu) (tedit 5880A862) (tstamp 5E95A884)
-    (at 175.26 119.38 90)
+    (at 172.750611 115.99333 90)
     (descr "LED, Round, FlatTop, diameter 3.0mm, 2 pins, http://www.kingbright.com/attachments/file/psearch/000/00/00/L-47XEC(Ver.9A).pdf")
     (tags "LED Round FlatTop diameter 3.0mm 2 pins")
     (path /5E8D61C8)
@@ -3093,7 +3093,7 @@
   )
 
   (module LED_THT:LED_D3.0mm_FlatTop (layer F.Cu) (tedit 5880A862) (tstamp 5E95A897)
-    (at 175.26 127 90)
+    (at 172.750611 126.999996 90)
     (descr "LED, Round, FlatTop, diameter 3.0mm, 2 pins, http://www.kingbright.com/attachments/file/psearch/000/00/00/L-47XEC(Ver.9A).pdf")
     (tags "LED Round FlatTop diameter 3.0mm 2 pins")
     (path /5E8D61CE)
@@ -3128,7 +3128,7 @@
   )
 
   (module LED_THT:LED_D3.0mm_FlatTop (layer F.Cu) (tedit 5880A862) (tstamp 5E95A8AA)
-    (at 175.26 134.62 90)
+    (at 172.750611 138.006662 90)
     (descr "LED, Round, FlatTop, diameter 3.0mm, 2 pins, http://www.kingbright.com/attachments/file/psearch/000/00/00/L-47XEC(Ver.9A).pdf")
     (tags "LED Round FlatTop diameter 3.0mm 2 pins")
     (path /5E8D61D4)
@@ -3163,7 +3163,7 @@
   )
 
   (module LED_THT:LED_D3.0mm_FlatTop (layer F.Cu) (tedit 5880A862) (tstamp 5E95A8BD)
-    (at 175.26 142.24 90)
+    (at 172.750611 149.013328 90)
     (descr "LED, Round, FlatTop, diameter 3.0mm, 2 pins, http://www.kingbright.com/attachments/file/psearch/000/00/00/L-47XEC(Ver.9A).pdf")
     (tags "LED Round FlatTop diameter 3.0mm 2 pins")
     (path /5E8D61DA)
@@ -3198,7 +3198,7 @@
   )
 
   (module LED_THT:LED_D3.0mm_FlatTop (layer F.Cu) (tedit 5880A862) (tstamp 5E95A8D0)
-    (at 175.26 149.86 90)
+    (at 172.72 160.02 90)
     (descr "LED, Round, FlatTop, diameter 3.0mm, 2 pins, http://www.kingbright.com/attachments/file/psearch/000/00/00/L-47XEC(Ver.9A).pdf")
     (tags "LED Round FlatTop diameter 3.0mm 2 pins")
     (path /5E8D61E0)
@@ -3232,8 +3232,8 @@
     )
   )
 
-  (module LED_THT:LED_D3.0mm_FlatTop (layer F.Cu) (tedit 5880A862) (tstamp 5E95A8E3)
-    (at 182.88 81.28 90)
+  (module LED_THT:LED_D3.0mm_FlatTop (layer F.Cu) (tedit 5880A862) (tstamp 5E96CB01)
+    (at 182.88 60.96 90)
     (descr "LED, Round, FlatTop, diameter 3.0mm, 2 pins, http://www.kingbright.com/attachments/file/psearch/000/00/00/L-47XEC(Ver.9A).pdf")
     (tags "LED Round FlatTop diameter 3.0mm 2 pins")
     (path /5E8DAC60)
@@ -3268,7 +3268,7 @@
   )
 
   (module LED_THT:LED_D3.0mm_FlatTop (layer F.Cu) (tedit 5880A862) (tstamp 5E95A8F6)
-    (at 182.88 88.9 90)
+    (at 182.914984 71.966666 90)
     (descr "LED, Round, FlatTop, diameter 3.0mm, 2 pins, http://www.kingbright.com/attachments/file/psearch/000/00/00/L-47XEC(Ver.9A).pdf")
     (tags "LED Round FlatTop diameter 3.0mm 2 pins")
     (path /5E8DAC66)
@@ -3303,7 +3303,7 @@
   )
 
   (module LED_THT:LED_D3.0mm_FlatTop (layer F.Cu) (tedit 5880A862) (tstamp 5E95A909)
-    (at 182.88 96.52 90)
+    (at 182.914984 82.973332 90)
     (descr "LED, Round, FlatTop, diameter 3.0mm, 2 pins, http://www.kingbright.com/attachments/file/psearch/000/00/00/L-47XEC(Ver.9A).pdf")
     (tags "LED Round FlatTop diameter 3.0mm 2 pins")
     (path /5E8DAC6C)
@@ -3338,7 +3338,7 @@
   )
 
   (module LED_THT:LED_D3.0mm_FlatTop (layer F.Cu) (tedit 5880A862) (tstamp 5E95A91C)
-    (at 182.88 104.14 90)
+    (at 182.914984 93.979998 90)
     (descr "LED, Round, FlatTop, diameter 3.0mm, 2 pins, http://www.kingbright.com/attachments/file/psearch/000/00/00/L-47XEC(Ver.9A).pdf")
     (tags "LED Round FlatTop diameter 3.0mm 2 pins")
     (path /5E8DAC72)
@@ -3373,7 +3373,7 @@
   )
 
   (module LED_THT:LED_D3.0mm_FlatTop (layer F.Cu) (tedit 5880A862) (tstamp 5E95E88B)
-    (at 182.88 111.76 90)
+    (at 182.914984 104.986664 90)
     (descr "LED, Round, FlatTop, diameter 3.0mm, 2 pins, http://www.kingbright.com/attachments/file/psearch/000/00/00/L-47XEC(Ver.9A).pdf")
     (tags "LED Round FlatTop diameter 3.0mm 2 pins")
     (path /5E8DAC78)
@@ -3408,7 +3408,7 @@
   )
 
   (module LED_THT:LED_D3.0mm_FlatTop (layer F.Cu) (tedit 5880A862) (tstamp 5E95A942)
-    (at 182.424999 119.38 90)
+    (at 182.914984 115.99333 90)
     (descr "LED, Round, FlatTop, diameter 3.0mm, 2 pins, http://www.kingbright.com/attachments/file/psearch/000/00/00/L-47XEC(Ver.9A).pdf")
     (tags "LED Round FlatTop diameter 3.0mm 2 pins")
     (path /5E8DAC7E)
@@ -3443,7 +3443,7 @@
   )
 
   (module LED_THT:LED_D3.0mm_FlatTop (layer F.Cu) (tedit 5880A862) (tstamp 5E95A955)
-    (at 182.88 127 90)
+    (at 182.914984 126.999996 90)
     (descr "LED, Round, FlatTop, diameter 3.0mm, 2 pins, http://www.kingbright.com/attachments/file/psearch/000/00/00/L-47XEC(Ver.9A).pdf")
     (tags "LED Round FlatTop diameter 3.0mm 2 pins")
     (path /5E8DAC84)
@@ -3478,7 +3478,7 @@
   )
 
   (module LED_THT:LED_D3.0mm_FlatTop (layer F.Cu) (tedit 5880A862) (tstamp 5E95A968)
-    (at 182.88 134.62 90)
+    (at 182.914984 138.006662 90)
     (descr "LED, Round, FlatTop, diameter 3.0mm, 2 pins, http://www.kingbright.com/attachments/file/psearch/000/00/00/L-47XEC(Ver.9A).pdf")
     (tags "LED Round FlatTop diameter 3.0mm 2 pins")
     (path /5E8DAC8A)
@@ -3513,7 +3513,7 @@
   )
 
   (module LED_THT:LED_D3.0mm_FlatTop (layer F.Cu) (tedit 5880A862) (tstamp 5E95A97B)
-    (at 182.88 142.24 90)
+    (at 182.914984 149.013328 90)
     (descr "LED, Round, FlatTop, diameter 3.0mm, 2 pins, http://www.kingbright.com/attachments/file/psearch/000/00/00/L-47XEC(Ver.9A).pdf")
     (tags "LED Round FlatTop diameter 3.0mm 2 pins")
     (path /5E8DAC90)
@@ -3548,7 +3548,7 @@
   )
 
   (module LED_THT:LED_D3.0mm_FlatTop (layer F.Cu) (tedit 5880A862) (tstamp 5E95A98E)
-    (at 182.88 149.86 90)
+    (at 182.88 160.02 90)
     (descr "LED, Round, FlatTop, diameter 3.0mm, 2 pins, http://www.kingbright.com/attachments/file/psearch/000/00/00/L-47XEC(Ver.9A).pdf")
     (tags "LED Round FlatTop diameter 3.0mm 2 pins")
     (path /5E8DAC96)
@@ -3582,8 +3582,8 @@
     )
   )
 
-  (module LED_THT:LED_D3.0mm_FlatTop (layer F.Cu) (tedit 5880A862) (tstamp 5E95A9A1)
-    (at 190.5 81.28 90)
+  (module LED_THT:LED_D3.0mm_FlatTop (layer F.Cu) (tedit 5880A862) (tstamp 5E96CB6D)
+    (at 193.04 60.96 90)
     (descr "LED, Round, FlatTop, diameter 3.0mm, 2 pins, http://www.kingbright.com/attachments/file/psearch/000/00/00/L-47XEC(Ver.9A).pdf")
     (tags "LED Round FlatTop diameter 3.0mm 2 pins")
     (path /5E8DACAE)
@@ -3618,7 +3618,7 @@
   )
 
   (module LED_THT:LED_D3.0mm_FlatTop (layer F.Cu) (tedit 5880A862) (tstamp 5E95A9B4)
-    (at 190.5 88.9 90)
+    (at 193.079357 71.949444 90)
     (descr "LED, Round, FlatTop, diameter 3.0mm, 2 pins, http://www.kingbright.com/attachments/file/psearch/000/00/00/L-47XEC(Ver.9A).pdf")
     (tags "LED Round FlatTop diameter 3.0mm 2 pins")
     (path /5E8DACB4)
@@ -3653,7 +3653,7 @@
   )
 
   (module LED_THT:LED_D3.0mm_FlatTop (layer F.Cu) (tedit 5880A862) (tstamp 5E95A9C7)
-    (at 190.5 96.52 90)
+    (at 193.079357 82.938888 90)
     (descr "LED, Round, FlatTop, diameter 3.0mm, 2 pins, http://www.kingbright.com/attachments/file/psearch/000/00/00/L-47XEC(Ver.9A).pdf")
     (tags "LED Round FlatTop diameter 3.0mm 2 pins")
     (path /5E8DACBA)
@@ -3688,7 +3688,7 @@
   )
 
   (module LED_THT:LED_D3.0mm_FlatTop (layer F.Cu) (tedit 5880A862) (tstamp 5E95A9DA)
-    (at 190.5 104.14 90)
+    (at 193.079357 93.928332 90)
     (descr "LED, Round, FlatTop, diameter 3.0mm, 2 pins, http://www.kingbright.com/attachments/file/psearch/000/00/00/L-47XEC(Ver.9A).pdf")
     (tags "LED Round FlatTop diameter 3.0mm 2 pins")
     (path /5E8DACC0)
@@ -3723,7 +3723,7 @@
   )
 
   (module LED_THT:LED_D3.0mm_FlatTop (layer F.Cu) (tedit 5880A862) (tstamp 5E95E855)
-    (at 190.5 111.76 90)
+    (at 193.079357 104.917776 90)
     (descr "LED, Round, FlatTop, diameter 3.0mm, 2 pins, http://www.kingbright.com/attachments/file/psearch/000/00/00/L-47XEC(Ver.9A).pdf")
     (tags "LED Round FlatTop diameter 3.0mm 2 pins")
     (path /5E8DACC6)
@@ -3758,7 +3758,7 @@
   )
 
   (module LED_THT:LED_D3.0mm_FlatTop (layer F.Cu) (tedit 5880A862) (tstamp 5E95AA00)
-    (at 190.5 119.38 90)
+    (at 193.079357 115.90722 90)
     (descr "LED, Round, FlatTop, diameter 3.0mm, 2 pins, http://www.kingbright.com/attachments/file/psearch/000/00/00/L-47XEC(Ver.9A).pdf")
     (tags "LED Round FlatTop diameter 3.0mm 2 pins")
     (path /5E8DACCC)
@@ -3793,7 +3793,7 @@
   )
 
   (module LED_THT:LED_D3.0mm_FlatTop (layer F.Cu) (tedit 5880A862) (tstamp 5E95AA13)
-    (at 190.5 127 90)
+    (at 193.079357 126.896664 90)
     (descr "LED, Round, FlatTop, diameter 3.0mm, 2 pins, http://www.kingbright.com/attachments/file/psearch/000/00/00/L-47XEC(Ver.9A).pdf")
     (tags "LED Round FlatTop diameter 3.0mm 2 pins")
     (path /5E8DACD2)
@@ -3828,7 +3828,7 @@
   )
 
   (module LED_THT:LED_D3.0mm_FlatTop (layer F.Cu) (tedit 5880A862) (tstamp 5E95AA26)
-    (at 190.5 134.62 90)
+    (at 193.079357 137.886108 90)
     (descr "LED, Round, FlatTop, diameter 3.0mm, 2 pins, http://www.kingbright.com/attachments/file/psearch/000/00/00/L-47XEC(Ver.9A).pdf")
     (tags "LED Round FlatTop diameter 3.0mm 2 pins")
     (path /5E8DACD8)
@@ -3863,7 +3863,7 @@
   )
 
   (module LED_THT:LED_D3.0mm_FlatTop (layer F.Cu) (tedit 5880A862) (tstamp 5E95AA39)
-    (at 190.5 142.24 90)
+    (at 193.079357 148.875552 90)
     (descr "LED, Round, FlatTop, diameter 3.0mm, 2 pins, http://www.kingbright.com/attachments/file/psearch/000/00/00/L-47XEC(Ver.9A).pdf")
     (tags "LED Round FlatTop diameter 3.0mm 2 pins")
     (path /5E8DACDE)
@@ -3898,7 +3898,7 @@
   )
 
   (module LED_THT:LED_D3.0mm_FlatTop (layer F.Cu) (tedit 5880A862) (tstamp 5E95AA4C)
-    (at 190.5 149.704999 90)
+    (at 193.04 159.864999 90)
     (descr "LED, Round, FlatTop, diameter 3.0mm, 2 pins, http://www.kingbright.com/attachments/file/psearch/000/00/00/L-47XEC(Ver.9A).pdf")
     (tags "LED Round FlatTop diameter 3.0mm 2 pins")
     (path /5E8DACE4)
@@ -3932,8 +3932,8 @@
     )
   )
 
-  (module LED_THT:LED_D3.0mm_FlatTop (layer F.Cu) (tedit 5880A862) (tstamp 5E95AA5F)
-    (at 198.12 81.28 90)
+  (module LED_THT:LED_D3.0mm_FlatTop (layer F.Cu) (tedit 5880A862) (tstamp 5E96CBA3)
+    (at 203.2 60.96 90)
     (descr "LED, Round, FlatTop, diameter 3.0mm, 2 pins, http://www.kingbright.com/attachments/file/psearch/000/00/00/L-47XEC(Ver.9A).pdf")
     (tags "LED Round FlatTop diameter 3.0mm 2 pins")
     (path /5E8DACFC)
@@ -3968,7 +3968,7 @@
   )
 
   (module LED_THT:LED_D3.0mm_FlatTop (layer F.Cu) (tedit 5880A862) (tstamp 5E95AA72)
-    (at 198.12 88.9 90)
+    (at 203.24373 71.966666 90)
     (descr "LED, Round, FlatTop, diameter 3.0mm, 2 pins, http://www.kingbright.com/attachments/file/psearch/000/00/00/L-47XEC(Ver.9A).pdf")
     (tags "LED Round FlatTop diameter 3.0mm 2 pins")
     (path /5E8DAD02)
@@ -4003,7 +4003,7 @@
   )
 
   (module LED_THT:LED_D3.0mm_FlatTop (layer F.Cu) (tedit 5880A862) (tstamp 5E95AA85)
-    (at 198.12 96.52 90)
+    (at 203.24373 82.973332 90)
     (descr "LED, Round, FlatTop, diameter 3.0mm, 2 pins, http://www.kingbright.com/attachments/file/psearch/000/00/00/L-47XEC(Ver.9A).pdf")
     (tags "LED Round FlatTop diameter 3.0mm 2 pins")
     (path /5E8DAD08)
@@ -4038,7 +4038,7 @@
   )
 
   (module LED_THT:LED_D3.0mm_FlatTop (layer F.Cu) (tedit 5880A862) (tstamp 5E95AA98)
-    (at 198.12 104.14 90)
+    (at 203.24373 93.979998 90)
     (descr "LED, Round, FlatTop, diameter 3.0mm, 2 pins, http://www.kingbright.com/attachments/file/psearch/000/00/00/L-47XEC(Ver.9A).pdf")
     (tags "LED Round FlatTop diameter 3.0mm 2 pins")
     (path /5E8DAD0E)
@@ -4073,7 +4073,7 @@
   )
 
   (module LED_THT:LED_D3.0mm_FlatTop (layer F.Cu) (tedit 5880A862) (tstamp 5E95AAAB)
-    (at 198.12 111.76 90)
+    (at 203.24373 104.986664 90)
     (descr "LED, Round, FlatTop, diameter 3.0mm, 2 pins, http://www.kingbright.com/attachments/file/psearch/000/00/00/L-47XEC(Ver.9A).pdf")
     (tags "LED Round FlatTop diameter 3.0mm 2 pins")
     (path /5E8DAD14)
@@ -4108,7 +4108,7 @@
   )
 
   (module LED_THT:LED_D3.0mm_FlatTop (layer F.Cu) (tedit 5880A862) (tstamp 5E95AABE)
-    (at 198.12 119.38 90)
+    (at 203.24373 115.99333 90)
     (descr "LED, Round, FlatTop, diameter 3.0mm, 2 pins, http://www.kingbright.com/attachments/file/psearch/000/00/00/L-47XEC(Ver.9A).pdf")
     (tags "LED Round FlatTop diameter 3.0mm 2 pins")
     (path /5E8DAD1A)
@@ -4143,7 +4143,7 @@
   )
 
   (module LED_THT:LED_D3.0mm_FlatTop (layer F.Cu) (tedit 5880A862) (tstamp 5E95AAD1)
-    (at 198.12 127 90)
+    (at 203.24373 126.999996 90)
     (descr "LED, Round, FlatTop, diameter 3.0mm, 2 pins, http://www.kingbright.com/attachments/file/psearch/000/00/00/L-47XEC(Ver.9A).pdf")
     (tags "LED Round FlatTop diameter 3.0mm 2 pins")
     (path /5E8DAD20)
@@ -4178,7 +4178,7 @@
   )
 
   (module LED_THT:LED_D3.0mm_FlatTop (layer F.Cu) (tedit 5880A862) (tstamp 5E95AAE4)
-    (at 198.12 134.62 90)
+    (at 203.24373 138.006662 90)
     (descr "LED, Round, FlatTop, diameter 3.0mm, 2 pins, http://www.kingbright.com/attachments/file/psearch/000/00/00/L-47XEC(Ver.9A).pdf")
     (tags "LED Round FlatTop diameter 3.0mm 2 pins")
     (path /5E8DAD26)
@@ -4213,7 +4213,7 @@
   )
 
   (module LED_THT:LED_D3.0mm_FlatTop (layer F.Cu) (tedit 5880A862) (tstamp 5E95AAF7)
-    (at 198.12 142.24 90)
+    (at 203.24373 149.013328 90)
     (descr "LED, Round, FlatTop, diameter 3.0mm, 2 pins, http://www.kingbright.com/attachments/file/psearch/000/00/00/L-47XEC(Ver.9A).pdf")
     (tags "LED Round FlatTop diameter 3.0mm 2 pins")
     (path /5E8DAD2C)
@@ -4248,7 +4248,7 @@
   )
 
   (module LED_THT:LED_D3.0mm_FlatTop (layer F.Cu) (tedit 5880A862) (tstamp 5E95AB0A)
-    (at 198.12 149.86 90)
+    (at 203.2 160.02 90)
     (descr "LED, Round, FlatTop, diameter 3.0mm, 2 pins, http://www.kingbright.com/attachments/file/psearch/000/00/00/L-47XEC(Ver.9A).pdf")
     (tags "LED Round FlatTop diameter 3.0mm 2 pins")
     (path /5E8DAD32)
@@ -4282,8 +4282,8 @@
     )
   )
 
-  (module LED_THT:LED_D3.0mm_FlatTop (layer F.Cu) (tedit 5880A862) (tstamp 5E95AB1D)
-    (at 205.74 81.28 90)
+  (module LED_THT:LED_D3.0mm_FlatTop (layer F.Cu) (tedit 5880A862) (tstamp 5E96CB37)
+    (at 213.36 60.96 90)
     (descr "LED, Round, FlatTop, diameter 3.0mm, 2 pins, http://www.kingbright.com/attachments/file/psearch/000/00/00/L-47XEC(Ver.9A).pdf")
     (tags "LED Round FlatTop diameter 3.0mm 2 pins")
     (path /5E8DAD4A)
@@ -4318,7 +4318,7 @@
   )
 
   (module LED_THT:LED_D3.0mm_FlatTop (layer F.Cu) (tedit 5880A862) (tstamp 5E95AB30)
-    (at 205.74 88.9 90)
+    (at 213.408103 71.966666 90)
     (descr "LED, Round, FlatTop, diameter 3.0mm, 2 pins, http://www.kingbright.com/attachments/file/psearch/000/00/00/L-47XEC(Ver.9A).pdf")
     (tags "LED Round FlatTop diameter 3.0mm 2 pins")
     (path /5E8DAD50)
@@ -4353,7 +4353,7 @@
   )
 
   (module LED_THT:LED_D3.0mm_FlatTop (layer F.Cu) (tedit 5880A862) (tstamp 5E95AB43)
-    (at 205.74 96.52 90)
+    (at 213.408103 82.973332 90)
     (descr "LED, Round, FlatTop, diameter 3.0mm, 2 pins, http://www.kingbright.com/attachments/file/psearch/000/00/00/L-47XEC(Ver.9A).pdf")
     (tags "LED Round FlatTop diameter 3.0mm 2 pins")
     (path /5E8DAD56)
@@ -4388,7 +4388,7 @@
   )
 
   (module LED_THT:LED_D3.0mm_FlatTop (layer F.Cu) (tedit 5880A862) (tstamp 5E95AB56)
-    (at 205.74 104.14 90)
+    (at 213.408103 93.979998 90)
     (descr "LED, Round, FlatTop, diameter 3.0mm, 2 pins, http://www.kingbright.com/attachments/file/psearch/000/00/00/L-47XEC(Ver.9A).pdf")
     (tags "LED Round FlatTop diameter 3.0mm 2 pins")
     (path /5E8DAD5C)
@@ -4423,7 +4423,7 @@
   )
 
   (module LED_THT:LED_D3.0mm_FlatTop (layer F.Cu) (tedit 5880A862) (tstamp 5E95E81F)
-    (at 205.74 111.76 90)
+    (at 213.408103 104.986664 90)
     (descr "LED, Round, FlatTop, diameter 3.0mm, 2 pins, http://www.kingbright.com/attachments/file/psearch/000/00/00/L-47XEC(Ver.9A).pdf")
     (tags "LED Round FlatTop diameter 3.0mm 2 pins")
     (path /5E8DAD62)
@@ -4458,7 +4458,7 @@
   )
 
   (module LED_THT:LED_D3.0mm_FlatTop (layer F.Cu) (tedit 5880A862) (tstamp 5E95E7E9)
-    (at 205.74 119.38 90)
+    (at 213.408103 115.99333 90)
     (descr "LED, Round, FlatTop, diameter 3.0mm, 2 pins, http://www.kingbright.com/attachments/file/psearch/000/00/00/L-47XEC(Ver.9A).pdf")
     (tags "LED Round FlatTop diameter 3.0mm 2 pins")
     (path /5E8DAD68)
@@ -4493,7 +4493,7 @@
   )
 
   (module LED_THT:LED_D3.0mm_FlatTop (layer F.Cu) (tedit 5880A862) (tstamp 5E95AB8F)
-    (at 205.74 127 90)
+    (at 213.408103 126.999996 90)
     (descr "LED, Round, FlatTop, diameter 3.0mm, 2 pins, http://www.kingbright.com/attachments/file/psearch/000/00/00/L-47XEC(Ver.9A).pdf")
     (tags "LED Round FlatTop diameter 3.0mm 2 pins")
     (path /5E8DAD6E)
@@ -4528,7 +4528,7 @@
   )
 
   (module LED_THT:LED_D3.0mm_FlatTop (layer F.Cu) (tedit 5880A862) (tstamp 5E95ABA2)
-    (at 205.74 134.62 90)
+    (at 213.408103 138.006662 90)
     (descr "LED, Round, FlatTop, diameter 3.0mm, 2 pins, http://www.kingbright.com/attachments/file/psearch/000/00/00/L-47XEC(Ver.9A).pdf")
     (tags "LED Round FlatTop diameter 3.0mm 2 pins")
     (path /5E8DAD74)
@@ -4563,7 +4563,7 @@
   )
 
   (module LED_THT:LED_D3.0mm_FlatTop (layer F.Cu) (tedit 5880A862) (tstamp 5E95ABB5)
-    (at 205.74 142.24 90)
+    (at 213.408103 149.013328 90)
     (descr "LED, Round, FlatTop, diameter 3.0mm, 2 pins, http://www.kingbright.com/attachments/file/psearch/000/00/00/L-47XEC(Ver.9A).pdf")
     (tags "LED Round FlatTop diameter 3.0mm 2 pins")
     (path /5E8DAD7A)
@@ -4598,7 +4598,7 @@
   )
 
   (module LED_THT:LED_D3.0mm_FlatTop (layer F.Cu) (tedit 5880A862) (tstamp 5E95ABC8)
-    (at 205.74 149.86 90)
+    (at 213.36 160.02 90)
     (descr "LED, Round, FlatTop, diameter 3.0mm, 2 pins, http://www.kingbright.com/attachments/file/psearch/000/00/00/L-47XEC(Ver.9A).pdf")
     (tags "LED Round FlatTop diameter 3.0mm 2 pins")
     (path /5E8DAD80)
@@ -4632,8 +4632,8 @@
     )
   )
 
-  (module LED_THT:LED_D3.0mm_FlatTop (layer F.Cu) (tedit 5880A862) (tstamp 5E95ABDB)
-    (at 213.36 81.28 90)
+  (module LED_THT:LED_D3.0mm_FlatTop (layer F.Cu) (tedit 5880A862) (tstamp 5E96CA95)
+    (at 223.52 60.96 90)
     (descr "LED, Round, FlatTop, diameter 3.0mm, 2 pins, http://www.kingbright.com/attachments/file/psearch/000/00/00/L-47XEC(Ver.9A).pdf")
     (tags "LED Round FlatTop diameter 3.0mm 2 pins")
     (path /5E8DAD98)
@@ -4668,7 +4668,7 @@
   )
 
   (module LED_THT:LED_D3.0mm_FlatTop (layer F.Cu) (tedit 5880A862) (tstamp 5E961900)
-    (at 213.36 88.882747 90)
+    (at 223.572476 71.966666 90)
     (descr "LED, Round, FlatTop, diameter 3.0mm, 2 pins, http://www.kingbright.com/attachments/file/psearch/000/00/00/L-47XEC(Ver.9A).pdf")
     (tags "LED Round FlatTop diameter 3.0mm 2 pins")
     (path /5E8DAD9E)
@@ -4703,7 +4703,7 @@
   )
 
   (module LED_THT:LED_D3.0mm_FlatTop (layer F.Cu) (tedit 5880A862) (tstamp 5E9618CA)
-    (at 213.36 96.52 90)
+    (at 223.572476 82.973332 90)
     (descr "LED, Round, FlatTop, diameter 3.0mm, 2 pins, http://www.kingbright.com/attachments/file/psearch/000/00/00/L-47XEC(Ver.9A).pdf")
     (tags "LED Round FlatTop diameter 3.0mm 2 pins")
     (path /5E8DADA4)
@@ -4738,7 +4738,7 @@
   )
 
   (module LED_THT:LED_D3.0mm_FlatTop (layer F.Cu) (tedit 5880A862) (tstamp 5E961936)
-    (at 213.36 104.14 90)
+    (at 223.572476 93.979998 90)
     (descr "LED, Round, FlatTop, diameter 3.0mm, 2 pins, http://www.kingbright.com/attachments/file/psearch/000/00/00/L-47XEC(Ver.9A).pdf")
     (tags "LED Round FlatTop diameter 3.0mm 2 pins")
     (path /5E8DADAA)
@@ -4773,7 +4773,7 @@
   )
 
   (module LED_THT:LED_D3.0mm_FlatTop (layer F.Cu) (tedit 5880A862) (tstamp 5E95AC27)
-    (at 213.36 111.76 90)
+    (at 223.572476 104.986664 90)
     (descr "LED, Round, FlatTop, diameter 3.0mm, 2 pins, http://www.kingbright.com/attachments/file/psearch/000/00/00/L-47XEC(Ver.9A).pdf")
     (tags "LED Round FlatTop diameter 3.0mm 2 pins")
     (path /5E8DADB0)
@@ -4808,7 +4808,7 @@
   )
 
   (module LED_THT:LED_D3.0mm_FlatTop (layer F.Cu) (tedit 5880A862) (tstamp 5E95AC3A)
-    (at 213.36 119.38 90)
+    (at 223.572476 115.99333 90)
     (descr "LED, Round, FlatTop, diameter 3.0mm, 2 pins, http://www.kingbright.com/attachments/file/psearch/000/00/00/L-47XEC(Ver.9A).pdf")
     (tags "LED Round FlatTop diameter 3.0mm 2 pins")
     (path /5E8DADB6)
@@ -4843,7 +4843,7 @@
   )
 
   (module LED_THT:LED_D3.0mm_FlatTop (layer F.Cu) (tedit 5880A862) (tstamp 5E95AC4D)
-    (at 213.36 127 90)
+    (at 223.572476 126.999996 90)
     (descr "LED, Round, FlatTop, diameter 3.0mm, 2 pins, http://www.kingbright.com/attachments/file/psearch/000/00/00/L-47XEC(Ver.9A).pdf")
     (tags "LED Round FlatTop diameter 3.0mm 2 pins")
     (path /5E8DADBC)
@@ -4878,7 +4878,7 @@
   )
 
   (module LED_THT:LED_D3.0mm_FlatTop (layer F.Cu) (tedit 5880A862) (tstamp 5E95AC60)
-    (at 213.36 134.62 90)
+    (at 223.572476 138.006662 90)
     (descr "LED, Round, FlatTop, diameter 3.0mm, 2 pins, http://www.kingbright.com/attachments/file/psearch/000/00/00/L-47XEC(Ver.9A).pdf")
     (tags "LED Round FlatTop diameter 3.0mm 2 pins")
     (path /5E8DADC2)
@@ -4913,7 +4913,7 @@
   )
 
   (module LED_THT:LED_D3.0mm_FlatTop (layer F.Cu) (tedit 5880A862) (tstamp 5E95AC73)
-    (at 213.36 142.24 90)
+    (at 223.572476 149.013328 90)
     (descr "LED, Round, FlatTop, diameter 3.0mm, 2 pins, http://www.kingbright.com/attachments/file/psearch/000/00/00/L-47XEC(Ver.9A).pdf")
     (tags "LED Round FlatTop diameter 3.0mm 2 pins")
     (path /5E8DADC8)
@@ -4948,7 +4948,7 @@
   )
 
   (module LED_THT:LED_D3.0mm_FlatTop (layer F.Cu) (tedit 5880A862) (tstamp 5E95AC86)
-    (at 213.36 149.86 90)
+    (at 223.52 160.02 90)
     (descr "LED, Round, FlatTop, diameter 3.0mm, 2 pins, http://www.kingbright.com/attachments/file/psearch/000/00/00/L-47XEC(Ver.9A).pdf")
     (tags "LED Round FlatTop diameter 3.0mm 2 pins")
     (path /5E8DADCE)
@@ -4982,8 +4982,8 @@
     )
   )
 
-  (module LED_THT:LED_D3.0mm_FlatTop (layer F.Cu) (tedit 5880A862) (tstamp 5E95AC99)
-    (at 220.98 81.28 90)
+  (module LED_THT:LED_D3.0mm_FlatTop (layer F.Cu) (tedit 5880A862) (tstamp 5E96CACB)
+    (at 233.68 60.96 90)
     (descr "LED, Round, FlatTop, diameter 3.0mm, 2 pins, http://www.kingbright.com/attachments/file/psearch/000/00/00/L-47XEC(Ver.9A).pdf")
     (tags "LED Round FlatTop diameter 3.0mm 2 pins")
     (path /5E8DADE6)
@@ -5018,7 +5018,7 @@
   )
 
   (module LED_THT:LED_D3.0mm_FlatTop (layer F.Cu) (tedit 5880A862) (tstamp 5E95ACAC)
-    (at 220.98 88.9 90)
+    (at 233.736849 71.966666 90)
     (descr "LED, Round, FlatTop, diameter 3.0mm, 2 pins, http://www.kingbright.com/attachments/file/psearch/000/00/00/L-47XEC(Ver.9A).pdf")
     (tags "LED Round FlatTop diameter 3.0mm 2 pins")
     (path /5E8DADEC)
@@ -5053,7 +5053,7 @@
   )
 
   (module LED_THT:LED_D3.0mm_FlatTop (layer F.Cu) (tedit 5880A862) (tstamp 5E95ACBF)
-    (at 220.98 96.52 90)
+    (at 233.736849 82.973332 90)
     (descr "LED, Round, FlatTop, diameter 3.0mm, 2 pins, http://www.kingbright.com/attachments/file/psearch/000/00/00/L-47XEC(Ver.9A).pdf")
     (tags "LED Round FlatTop diameter 3.0mm 2 pins")
     (path /5E8DADF2)
@@ -5088,7 +5088,7 @@
   )
 
   (module LED_THT:LED_D3.0mm_FlatTop (layer F.Cu) (tedit 5880A862) (tstamp 5E95ACD2)
-    (at 220.98 104.14 90)
+    (at 233.736849 93.979998 90)
     (descr "LED, Round, FlatTop, diameter 3.0mm, 2 pins, http://www.kingbright.com/attachments/file/psearch/000/00/00/L-47XEC(Ver.9A).pdf")
     (tags "LED Round FlatTop diameter 3.0mm 2 pins")
     (path /5E8DADF8)
@@ -5123,7 +5123,7 @@
   )
 
   (module LED_THT:LED_D3.0mm_FlatTop (layer F.Cu) (tedit 5880A862) (tstamp 5E95ACE5)
-    (at 220.98 111.76 90)
+    (at 233.736849 104.986664 90)
     (descr "LED, Round, FlatTop, diameter 3.0mm, 2 pins, http://www.kingbright.com/attachments/file/psearch/000/00/00/L-47XEC(Ver.9A).pdf")
     (tags "LED Round FlatTop diameter 3.0mm 2 pins")
     (path /5E8DADFE)
@@ -5158,7 +5158,7 @@
   )
 
   (module LED_THT:LED_D3.0mm_FlatTop (layer F.Cu) (tedit 5880A862) (tstamp 5E95E7B3)
-    (at 220.98 119.38 90)
+    (at 233.736849 115.99333 90)
     (descr "LED, Round, FlatTop, diameter 3.0mm, 2 pins, http://www.kingbright.com/attachments/file/psearch/000/00/00/L-47XEC(Ver.9A).pdf")
     (tags "LED Round FlatTop diameter 3.0mm 2 pins")
     (path /5E8DAE04)
@@ -5193,7 +5193,7 @@
   )
 
   (module LED_THT:LED_D3.0mm_FlatTop (layer F.Cu) (tedit 5880A862) (tstamp 5E95AD0B)
-    (at 220.98 127 90)
+    (at 233.736849 126.999996 90)
     (descr "LED, Round, FlatTop, diameter 3.0mm, 2 pins, http://www.kingbright.com/attachments/file/psearch/000/00/00/L-47XEC(Ver.9A).pdf")
     (tags "LED Round FlatTop diameter 3.0mm 2 pins")
     (path /5E8DAE0A)
@@ -5228,7 +5228,7 @@
   )
 
   (module LED_THT:LED_D3.0mm_FlatTop (layer F.Cu) (tedit 5880A862) (tstamp 5E95AD1E)
-    (at 220.98 134.62 90)
+    (at 233.736849 138.006662 90)
     (descr "LED, Round, FlatTop, diameter 3.0mm, 2 pins, http://www.kingbright.com/attachments/file/psearch/000/00/00/L-47XEC(Ver.9A).pdf")
     (tags "LED Round FlatTop diameter 3.0mm 2 pins")
     (path /5E8DAE10)
@@ -5263,7 +5263,7 @@
   )
 
   (module LED_THT:LED_D3.0mm_FlatTop (layer F.Cu) (tedit 5880A862) (tstamp 5E95AD31)
-    (at 220.98 142.24 90)
+    (at 233.736849 149.013328 90)
     (descr "LED, Round, FlatTop, diameter 3.0mm, 2 pins, http://www.kingbright.com/attachments/file/psearch/000/00/00/L-47XEC(Ver.9A).pdf")
     (tags "LED Round FlatTop diameter 3.0mm 2 pins")
     (path /5E8DAE16)
@@ -5298,7 +5298,7 @@
   )
 
   (module LED_THT:LED_D3.0mm_FlatTop (layer F.Cu) (tedit 5880A862) (tstamp 5E95AD44)
-    (at 220.98 149.86 90)
+    (at 233.68 160.02 90)
     (descr "LED, Round, FlatTop, diameter 3.0mm, 2 pins, http://www.kingbright.com/attachments/file/psearch/000/00/00/L-47XEC(Ver.9A).pdf")
     (tags "LED Round FlatTop diameter 3.0mm 2 pins")
     (path /5E8DAE1C)
@@ -5332,8 +5332,8 @@
     )
   )
 
-  (module LED_THT:LED_D3.0mm_FlatTop (layer F.Cu) (tedit 5880A862) (tstamp 5E95E6DB)
-    (at 228.6 81.28 90)
+  (module LED_THT:LED_D3.0mm_FlatTop (layer F.Cu) (tedit 5880A862) (tstamp 5E96C8E5)
+    (at 243.84 60.96 90)
     (descr "LED, Round, FlatTop, diameter 3.0mm, 2 pins, http://www.kingbright.com/attachments/file/psearch/000/00/00/L-47XEC(Ver.9A).pdf")
     (tags "LED Round FlatTop diameter 3.0mm 2 pins")
     (path /5E8DAE34)
@@ -5368,7 +5368,7 @@
   )
 
   (module LED_THT:LED_D3.0mm_FlatTop (layer F.Cu) (tedit 5880A862) (tstamp 5E95AD6A)
-    (at 228.6 88.9 90)
+    (at 243.901222 71.966666 90)
     (descr "LED, Round, FlatTop, diameter 3.0mm, 2 pins, http://www.kingbright.com/attachments/file/psearch/000/00/00/L-47XEC(Ver.9A).pdf")
     (tags "LED Round FlatTop diameter 3.0mm 2 pins")
     (path /5E8DAE3A)
@@ -5403,7 +5403,7 @@
   )
 
   (module LED_THT:LED_D3.0mm_FlatTop (layer F.Cu) (tedit 5880A862) (tstamp 5E95AD7D)
-    (at 228.6 96.52 90)
+    (at 243.901222 82.973332 90)
     (descr "LED, Round, FlatTop, diameter 3.0mm, 2 pins, http://www.kingbright.com/attachments/file/psearch/000/00/00/L-47XEC(Ver.9A).pdf")
     (tags "LED Round FlatTop diameter 3.0mm 2 pins")
     (path /5E8DAE40)
@@ -5438,7 +5438,7 @@
   )
 
   (module LED_THT:LED_D3.0mm_FlatTop (layer F.Cu) (tedit 5880A862) (tstamp 5E95E711)
-    (at 228.6 104.14 90)
+    (at 243.901222 93.979998 90)
     (descr "LED, Round, FlatTop, diameter 3.0mm, 2 pins, http://www.kingbright.com/attachments/file/psearch/000/00/00/L-47XEC(Ver.9A).pdf")
     (tags "LED Round FlatTop diameter 3.0mm 2 pins")
     (path /5E8DAE46)
@@ -5473,7 +5473,7 @@
   )
 
   (module LED_THT:LED_D3.0mm_FlatTop (layer F.Cu) (tedit 5880A862) (tstamp 5E95ADA3)
-    (at 228.6 111.76 90)
+    (at 243.901222 104.986664 90)
     (descr "LED, Round, FlatTop, diameter 3.0mm, 2 pins, http://www.kingbright.com/attachments/file/psearch/000/00/00/L-47XEC(Ver.9A).pdf")
     (tags "LED Round FlatTop diameter 3.0mm 2 pins")
     (path /5E8DAE4C)
@@ -5508,7 +5508,7 @@
   )
 
   (module LED_THT:LED_D3.0mm_FlatTop (layer F.Cu) (tedit 5880A862) (tstamp 5E95ADB6)
-    (at 228.6 119.38 90)
+    (at 243.901222 115.99333 90)
     (descr "LED, Round, FlatTop, diameter 3.0mm, 2 pins, http://www.kingbright.com/attachments/file/psearch/000/00/00/L-47XEC(Ver.9A).pdf")
     (tags "LED Round FlatTop diameter 3.0mm 2 pins")
     (path /5E8DAE52)
@@ -5543,7 +5543,7 @@
   )
 
   (module LED_THT:LED_D3.0mm_FlatTop (layer F.Cu) (tedit 5880A862) (tstamp 5E95ADC9)
-    (at 228.6 127 90)
+    (at 243.901222 126.999996 90)
     (descr "LED, Round, FlatTop, diameter 3.0mm, 2 pins, http://www.kingbright.com/attachments/file/psearch/000/00/00/L-47XEC(Ver.9A).pdf")
     (tags "LED Round FlatTop diameter 3.0mm 2 pins")
     (path /5E8DAE58)
@@ -5578,7 +5578,7 @@
   )
 
   (module LED_THT:LED_D3.0mm_FlatTop (layer F.Cu) (tedit 5880A862) (tstamp 5E95ADDC)
-    (at 228.6 134.62 90)
+    (at 243.901222 138.006662 90)
     (descr "LED, Round, FlatTop, diameter 3.0mm, 2 pins, http://www.kingbright.com/attachments/file/psearch/000/00/00/L-47XEC(Ver.9A).pdf")
     (tags "LED Round FlatTop diameter 3.0mm 2 pins")
     (path /5E8DAE5E)
@@ -5613,7 +5613,7 @@
   )
 
   (module LED_THT:LED_D3.0mm_FlatTop (layer F.Cu) (tedit 5880A862) (tstamp 5E95ADEF)
-    (at 228.6 142.24 90)
+    (at 243.901222 149.013328 90)
     (descr "LED, Round, FlatTop, diameter 3.0mm, 2 pins, http://www.kingbright.com/attachments/file/psearch/000/00/00/L-47XEC(Ver.9A).pdf")
     (tags "LED Round FlatTop diameter 3.0mm 2 pins")
     (path /5E8DAE64)
@@ -5648,7 +5648,7 @@
   )
 
   (module LED_THT:LED_D3.0mm_FlatTop (layer F.Cu) (tedit 5880A862) (tstamp 5E95AE02)
-    (at 228.6 149.86 90)
+    (at 243.84 160.02 90)
     (descr "LED, Round, FlatTop, diameter 3.0mm, 2 pins, http://www.kingbright.com/attachments/file/psearch/000/00/00/L-47XEC(Ver.9A).pdf")
     (tags "LED Round FlatTop diameter 3.0mm 2 pins")
     (path /5E8DAE6A)
@@ -5682,8 +5682,8 @@
     )
   )
 
-  (module LED_THT:LED_D3.0mm_FlatTop (layer F.Cu) (tedit 5880A862) (tstamp 5E95AE15)
-    (at 236.22 81.28 90)
+  (module LED_THT:LED_D3.0mm_FlatTop (layer F.Cu) (tedit 5880A862) (tstamp 5E96C91B)
+    (at 254 60.96 90)
     (descr "LED, Round, FlatTop, diameter 3.0mm, 2 pins, http://www.kingbright.com/attachments/file/psearch/000/00/00/L-47XEC(Ver.9A).pdf")
     (tags "LED Round FlatTop diameter 3.0mm 2 pins")
     (path /5E8DAE82)
@@ -5718,7 +5718,7 @@
   )
 
   (module LED_THT:LED_D3.0mm_FlatTop (layer F.Cu) (tedit 5880A862) (tstamp 5E95E747)
-    (at 236.2856 88.5743 90)
+    (at 254.0656 71.966666 90)
     (descr "LED, Round, FlatTop, diameter 3.0mm, 2 pins, http://www.kingbright.com/attachments/file/psearch/000/00/00/L-47XEC(Ver.9A).pdf")
     (tags "LED Round FlatTop diameter 3.0mm 2 pins")
     (path /5E8DAE88)
@@ -5753,7 +5753,7 @@
   )
 
   (module LED_THT:LED_D3.0mm_FlatTop (layer F.Cu) (tedit 5880A862) (tstamp 5E95AE3B)
-    (at 236.2856 96.1943 90)
+    (at 254.0656 82.973332 90)
     (descr "LED, Round, FlatTop, diameter 3.0mm, 2 pins, http://www.kingbright.com/attachments/file/psearch/000/00/00/L-47XEC(Ver.9A).pdf")
     (tags "LED Round FlatTop diameter 3.0mm 2 pins")
     (path /5E8DAE8E)
@@ -5788,7 +5788,7 @@
   )
 
   (module LED_THT:LED_D3.0mm_FlatTop (layer F.Cu) (tedit 5880A862) (tstamp 5E95AE4E)
-    (at 236.2856 103.8143 90)
+    (at 254.0656 93.979998 90)
     (descr "LED, Round, FlatTop, diameter 3.0mm, 2 pins, http://www.kingbright.com/attachments/file/psearch/000/00/00/L-47XEC(Ver.9A).pdf")
     (tags "LED Round FlatTop diameter 3.0mm 2 pins")
     (path /5E8DAE94)
@@ -5823,7 +5823,7 @@
   )
 
   (module LED_THT:LED_D3.0mm_FlatTop (layer F.Cu) (tedit 5880A862) (tstamp 5E95E77D)
-    (at 236.2856 111.4343 90)
+    (at 254.0656 104.986664 90)
     (descr "LED, Round, FlatTop, diameter 3.0mm, 2 pins, http://www.kingbright.com/attachments/file/psearch/000/00/00/L-47XEC(Ver.9A).pdf")
     (tags "LED Round FlatTop diameter 3.0mm 2 pins")
     (path /5E8DAE9A)
@@ -5858,7 +5858,7 @@
   )
 
   (module LED_THT:LED_D3.0mm_FlatTop (layer F.Cu) (tedit 5880A862) (tstamp 5E95AE74)
-    (at 236.2856 119.0543 90)
+    (at 254.0656 115.99333 90)
     (descr "LED, Round, FlatTop, diameter 3.0mm, 2 pins, http://www.kingbright.com/attachments/file/psearch/000/00/00/L-47XEC(Ver.9A).pdf")
     (tags "LED Round FlatTop diameter 3.0mm 2 pins")
     (path /5E8DAEA0)
@@ -5893,7 +5893,7 @@
   )
 
   (module LED_THT:LED_D3.0mm_FlatTop (layer F.Cu) (tedit 5880A862) (tstamp 5E95AE87)
-    (at 236.2856 126.6743 90)
+    (at 254.0656 126.999996 90)
     (descr "LED, Round, FlatTop, diameter 3.0mm, 2 pins, http://www.kingbright.com/attachments/file/psearch/000/00/00/L-47XEC(Ver.9A).pdf")
     (tags "LED Round FlatTop diameter 3.0mm 2 pins")
     (path /5E8DAEA6)
@@ -5928,7 +5928,7 @@
   )
 
   (module LED_THT:LED_D3.0mm_FlatTop (layer F.Cu) (tedit 5880A862) (tstamp 5E95AE9A)
-    (at 236.2856 134.2943 90)
+    (at 254.0656 138.006662 90)
     (descr "LED, Round, FlatTop, diameter 3.0mm, 2 pins, http://www.kingbright.com/attachments/file/psearch/000/00/00/L-47XEC(Ver.9A).pdf")
     (tags "LED Round FlatTop diameter 3.0mm 2 pins")
     (path /5E8DAEAC)
@@ -5963,7 +5963,7 @@
   )
 
   (module LED_THT:LED_D3.0mm_FlatTop (layer F.Cu) (tedit 5880A862) (tstamp 5E95AEAD)
-    (at 236.2856 141.9143 90)
+    (at 254.0656 149.013328 90)
     (descr "LED, Round, FlatTop, diameter 3.0mm, 2 pins, http://www.kingbright.com/attachments/file/psearch/000/00/00/L-47XEC(Ver.9A).pdf")
     (tags "LED Round FlatTop diameter 3.0mm 2 pins")
     (path /5E8DAEB2)
@@ -5998,7 +5998,7 @@
   )
 
   (module LED_THT:LED_D3.0mm_FlatTop (layer F.Cu) (tedit 5880A862) (tstamp 5E95AEC0)
-    (at 236.2856 149.5343 90)
+    (at 254 160.02 90)
     (descr "LED, Round, FlatTop, diameter 3.0mm, 2 pins, http://www.kingbright.com/attachments/file/psearch/000/00/00/L-47XEC(Ver.9A).pdf")
     (tags "LED Round FlatTop diameter 3.0mm 2 pins")
     (path /5E8DAEB8)
@@ -6032,8 +6032,8 @@
     )
   )
 
-  (module Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder (layer B.Cu) (tedit 5B36C52B) (tstamp 5E962AE4)
-    (at 121.92 72.635 90)
+  (module Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder (layer B.Cu) (tedit 5B36C52B) (tstamp 5E96613F)
+    (at 101.6 52.315 90)
     (descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "resistor handsolder")
     (path /5E88AA92)
@@ -6069,7 +6069,7 @@
   )
 
   (module Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder (layer B.Cu) (tedit 5B36C52B) (tstamp 5E962AF5)
-    (at 129.54 72.635 270)
+    (at 111.76 52.315 270)
     (descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "resistor handsolder")
     (path /5E975D52)
@@ -6105,7 +6105,7 @@
   )
 
   (module Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder (layer B.Cu) (tedit 5B36C52B) (tstamp 5E962B06)
-    (at 137.16 72.635 270)
+    (at 121.92 52.315 270)
     (descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "resistor handsolder")
     (path /5E8D42D0)
@@ -6141,7 +6141,7 @@
   )
 
   (module Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder (layer B.Cu) (tedit 5B36C52B) (tstamp 5E962B17)
-    (at 144.78 72.635 270)
+    (at 132.08 52.315 270)
     (descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "resistor handsolder")
     (path /5E8D4988)
@@ -6177,7 +6177,7 @@
   )
 
   (module Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder (layer B.Cu) (tedit 5B36C52B) (tstamp 5E965C4C)
-    (at 152.4 72.635 270)
+    (at 142.24 52.315 270)
     (descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "resistor handsolder")
     (path /5E8D49D6)
@@ -6213,7 +6213,7 @@
   )
 
   (module Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder (layer B.Cu) (tedit 5B36C52B) (tstamp 5E962B39)
-    (at 160.02 72.635 270)
+    (at 152.4 52.315 270)
     (descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "resistor handsolder")
     (path /5E8D60FC)
@@ -6249,7 +6249,7 @@
   )
 
   (module Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder (layer B.Cu) (tedit 5B36C52B) (tstamp 5E962B4A)
-    (at 167.64 72.635 270)
+    (at 162.56 52.315 270)
     (descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "resistor handsolder")
     (path /5E8D614A)
@@ -6285,7 +6285,7 @@
   )
 
   (module Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder (layer B.Cu) (tedit 5B36C52B) (tstamp 5E962B5B)
-    (at 175.26 72.635 270)
+    (at 172.72 52.315 270)
     (descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "resistor handsolder")
     (path /5E8D6198)
@@ -6321,7 +6321,7 @@
   )
 
   (module Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder (layer B.Cu) (tedit 5B36C52B) (tstamp 5E962B6C)
-    (at 182.88 72.635 270)
+    (at 182.88 52.315 270)
     (descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "resistor handsolder")
     (path /5E8D61E6)
@@ -6357,7 +6357,7 @@
   )
 
   (module Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder (layer B.Cu) (tedit 5B36C52B) (tstamp 5E962B7D)
-    (at 190.5 72.635 270)
+    (at 193.04 52.315 270)
     (descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "resistor handsolder")
     (path /5E8DAC9C)
@@ -6393,7 +6393,7 @@
   )
 
   (module Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder (layer B.Cu) (tedit 5B36C52B) (tstamp 5E962F0F)
-    (at 198.12 72.635 270)
+    (at 203.2 52.315 270)
     (descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "resistor handsolder")
     (path /5E8DACEA)
@@ -6429,7 +6429,7 @@
   )
 
   (module Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder (layer B.Cu) (tedit 5B36C52B) (tstamp 5E962B9F)
-    (at 205.74 72.635 270)
+    (at 213.36 52.315 270)
     (descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "resistor handsolder")
     (path /5E8DAD38)
@@ -6465,7 +6465,7 @@
   )
 
   (module Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder (layer B.Cu) (tedit 5B36C52B) (tstamp 5E962BB0)
-    (at 213.36 72.635 270)
+    (at 223.52 52.315 270)
     (descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "resistor handsolder")
     (path /5E8DAD86)
@@ -6501,7 +6501,7 @@
   )
 
   (module Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder (layer B.Cu) (tedit 5B36C52B) (tstamp 5E962BC1)
-    (at 220.98 72.635 270)
+    (at 233.68 52.315 270)
     (descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "resistor handsolder")
     (path /5E8DADD4)
@@ -6537,7 +6537,7 @@
   )
 
   (module Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder (layer B.Cu) (tedit 5B36C52B) (tstamp 5E962BD2)
-    (at 228.6 72.635 270)
+    (at 243.84 52.315 270)
     (descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "resistor handsolder")
     (path /5E8DAE22)
@@ -6572,8 +6572,8 @@
     )
   )
 
-  (module Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder (layer B.Cu) (tedit 5B36C52B) (tstamp 5E962BE3)
-    (at 236.22 72.635 270)
+  (module Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder (layer B.Cu) (tedit 5B36C52B) (tstamp 5E966191)
+    (at 254 52.315 270)
     (descr "Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "resistor handsolder")
     (path /5E8DAE70)
@@ -6608,8 +6608,8 @@
     )
   )
 
-  (module Resistor_SMD:R_1206_3216Metric_Pad1.42x1.75mm_HandSolder (layer F.Cu) (tedit 5B301BBD) (tstamp 5E962E68)
-    (at 116.84 149.86 90)
+  (module Resistor_SMD:R_1206_3216Metric_Pad1.42x1.75mm_HandSolder (layer F.Cu) (tedit 5B301BBD) (tstamp 5E965D14)
+    (at 73.66 148.3725 90)
     (descr "Resistor SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags "resistor handsolder")
     (path /5E92434C)
@@ -6645,7 +6645,7 @@
   )
 
   (module Connector_JST:JST_EH_S03B-EH_1x03_P2.50mm_Horizontal (layer F.Cu) (tedit 5B7717B9) (tstamp 5E963900)
-    (at 114.3 78.74 90)
+    (at 58.42 73.66 90)
     (descr "JST EH series connector, S03B-EH (http://www.jst-mfg.com/product/pdf/eng/eEH.pdf), generated with kicad-footprint-generator")
     (tags "connector JST EH top entry")
     (path /5E90594F)
@@ -6722,12 +6722,29 @@
     )
   )
 
-  (gr_line (start 106.68 152.4) (end 238.76 152.4) (layer Edge.Cuts) (width 0.15))
-  (gr_line (start 106.68 68.58) (end 106.68 152.4) (layer Edge.Cuts) (width 0.15))
-  (gr_line (start 238.76 68.58) (end 106.68 68.58) (layer Edge.Cuts) (width 0.15))
-  (gr_line (start 238.76 152.4) (end 238.76 68.58) (layer Edge.Cuts) (width 0.15))
-
-  (segment (start 121.92 81.28) (end 121.92 86.36) (width 1.3) (layer B.Cu) (net 1))
-  (segment (start 129.54 81.28) (end 129.54 86.36) (width 1.3) (layer B.Cu) (net 13))
+  (dimension 152.4 (width 0.3) (layer Dwgs.User)
+    (gr_text "152.400 mm" (at 177.8 172.28) (layer Dwgs.User)
+      (effects (font (size 1.5 1.5) (thickness 0.3)))
+    )
+    (feature1 (pts (xy 101.6 160.02) (xy 101.6 170.766421)))
+    (feature2 (pts (xy 254 160.02) (xy 254 170.766421)))
+    (crossbar (pts (xy 254 170.18) (xy 101.6 170.18)))
+    (arrow1a (pts (xy 101.6 170.18) (xy 102.726504 169.593579)))
+    (arrow1b (pts (xy 101.6 170.18) (xy 102.726504 170.766421)))
+    (arrow2a (pts (xy 254 170.18) (xy 252.873496 169.593579)))
+    (arrow2b (pts (xy 254 170.18) (xy 252.873496 170.766421)))
+  )
+  (dimension 101.6 (width 0.3) (layer Dwgs.User)
+    (gr_text "101.600 mm" (at 268.8 109.22 90) (layer Dwgs.User)
+      (effects (font (size 1.5 1.5) (thickness 0.3)))
+    )
+    (feature1 (pts (xy 254 58.42) (xy 267.286421 58.42)))
+    (feature2 (pts (xy 254 160.02) (xy 267.286421 160.02)))
+    (crossbar (pts (xy 266.7 160.02) (xy 266.7 58.42)))
+    (arrow1a (pts (xy 266.7 58.42) (xy 267.286421 59.546504)))
+    (arrow1b (pts (xy 266.7 58.42) (xy 266.113579 59.546504)))
+    (arrow2a (pts (xy 266.7 160.02) (xy 267.286421 158.893496)))
+    (arrow2b (pts (xy 266.7 160.02) (xy 266.113579 158.893496)))
+  )
 
 )
